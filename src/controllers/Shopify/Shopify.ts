@@ -13,8 +13,7 @@ export class ShopifyController {
       res.set('Content-Type', 'text/xml')
 
       const url = 'https://sovrakofanela.myshopify.com/products/'
-      const sinceId = null
-      const products = await getAllProducts(sinceId)
+      const products = await getAllProducts()
       const builder = new xml2js.Builder()
 
       const arr: any = {
