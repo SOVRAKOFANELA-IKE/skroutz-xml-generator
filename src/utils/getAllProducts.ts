@@ -20,12 +20,12 @@ export const getAllProducts = async (): Promise<any> => {
           },
         }
       )
-      if (results.data.products[249]?.id) {
-        sinceid = results.data.products[249].id
-        for (let i = 0; i < 250; i++) {
+      const productLength = results.data.products.length - 1
+      if (results.data.products[productLength]?.id) {
+        sinceid = results.data.products[productLength].id
+        for (let i = 0; i < productLength; i++) {
           products.push(results.data.products[i])
         }
-        // console.log(results.data.products[results.data.products.length].id)
       } else {
         breakLoop = true
         break
