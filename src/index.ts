@@ -17,7 +17,7 @@ app.use(express.json())
 app.use('/static', express.static(path.join(__dirname, 'public')))
 app.use('/', router)
 
-cron.schedule('0 */45 * * * *', async () => {
+cron.schedule('*/45 * * * *', async () => {
   try {
     const url = 'https://sovrakofanela.myshopify.com/products/'
     const products = await getAllProducts()
