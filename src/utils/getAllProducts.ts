@@ -1,9 +1,11 @@
+/* eslint-disable no-console */
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import axios from 'axios'
+import { TOKEN } from '../config/constants'
 
 export const getAllProducts = async (): Promise<any> => {
   try {
-    axios.defaults.headers.get['X-Shopify-Access-Token'] = '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'
+    axios.defaults.headers.get['X-Shopify-Access-Token'] = TOKEN
 
     const products = []
     let sinceid = ''
