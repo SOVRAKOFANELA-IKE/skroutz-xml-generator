@@ -35,7 +35,11 @@ export const getAllProducts = async (): Promise<any> => {
     }
     console.log(products.length)
 
-    return products
+    const filteredArray = products.filter((obj, index, arr) => {
+      return arr.map((mapObj) => mapObj.id).indexOf(obj.id) === index
+    })
+
+    return filteredArray
   } catch (error) {
     console.log(error)
   }
