@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mywebstore>
-  <created_at>2021-1-19 10:8</created_at>
+  <created_at>2021-1-19 10:54</created_at>
   <products>
     <product>
       <id>5887568412833</id>
@@ -9,7 +9,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/96-29375_030-01.jpg?v=1605594633</image>
       <price_with_vat>12.70</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>29375/54b8</mpn>
+      <mpn>29375/50c6</mpn>
       <ean>5206821662761</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -24,7 +24,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_c4d55817-ebe2-42d3-9252-7397da8dd087.jpg?v=1606221973</image>
       <price_with_vat>5.50</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-3502/91c2</mpn>
+      <mpn>2-3502/1c64</mpn>
       <ean>5210028041373</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -39,7 +39,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_65aacc7f-d478-469c-8442-5457b533cb7a.jpg?v=1606221935</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-3502/27b5</mpn>
+      <mpn>2-3502/97b7</mpn>
       <ean>5210028041359</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -54,7 +54,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_abb22802-87e2-4da3-8ec0-34950ede7b95.jpg?v=1602574926</image>
       <price_with_vat>5.50</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-3501/a402</mpn>
+      <mpn>2-3501/2572</mpn>
       <ean>5210028002213</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -69,7 +69,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w1755-1_2787_4.jpg?v=1606209571</image>
       <price_with_vat>15.20</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1755-1/0f6d</mpn>
+      <mpn>w1755-1/c217</mpn>
       <ean>5203102119129</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -84,7 +84,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1755-1_0202.jpg?v=1606210070</image>
       <price_with_vat>15.20</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1755-1/876b</mpn>
+      <mpn>w1755-1/f248</mpn>
       <ean>5203102090220</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -99,7 +99,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1756_0202.jpg?v=1606212287</image>
       <price_with_vat>15.20</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>W1756/40a7</mpn>
+      <mpn>W1756/5ead</mpn>
       <ean>5203102075050</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -114,7 +114,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1755-1_0308.jpg?v=1606210052</image>
       <price_with_vat>15.20</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1755-1/49c8</mpn>
+      <mpn>w1755-1/b45d</mpn>
       <ean>5203102119082</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -129,7 +129,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1756_0339_5.jpg?v=1609165207</image>
       <price_with_vat>15.20</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>W1756/3290</mpn>
+      <mpn>W1756/9935</mpn>
       <ean>5203102105559</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -144,7 +144,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w1756_4046_5.jpg?v=1606210253</image>
       <price_with_vat>15.20</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>W1756/968e</mpn>
+      <mpn>W1756/65cb</mpn>
       <ean>5203102119228</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -159,7 +159,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1761_0102.jpg?v=1609159393</image>
       <price_with_vat>13.52</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1761/ce03</mpn>
+      <mpn>w1761/86e3</mpn>
       <ean>5203196863595</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -174,7 +174,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1761_0202_3.jpg?v=1609159075</image>
       <price_with_vat>13.52</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1761/c779</mpn>
+      <mpn>w1761/ef27</mpn>
       <ean>5203196863632</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -189,7 +189,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200316113857_sloggi_go_h_hipster_10198092_0004_2pack_black.jpg?v=1604345599</image>
       <price_with_vat>14.36</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>go-hipster-man/f94a</mpn>
+      <mpn>go-hipster-man/3242</mpn>
       <ean>7613108269038</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -204,7 +204,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/goshortsloggi.jpg?v=1606142554</image>
       <price_with_vat>14.00</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>go-short-man/7cc1</mpn>
+      <mpn>go-short-man/1997</mpn>
       <ean>7613108281962</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -219,7 +219,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122089856.jpg?v=1604749080</image>
       <price_with_vat>14.36</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>start-hipster-man/5aa5</mpn>
+      <mpn>start-hipster-man/6531</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -234,7 +234,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122047984.jpg?v=1604749154</image>
       <price_with_vat>15.96</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>start-short-man/53d9</mpn>
+      <mpn>start-short-man/ba30</mpn>
       <ean>7613125922725</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -249,7 +249,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_95ca5273-2c74-4721-a469-da6e0680a085.jpg?v=1609162713</image>
       <price_with_vat>20.70</price_with_vat>
       <manufacturer>JohnFrank</manufacturer>
-      <mpn>jf3bm09/dc91</mpn>
+      <mpn>jf3bm09/78f8</mpn>
       <ean>8680848594897</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -264,7 +264,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200115162952_sloggi_go_h_holiday_mini_10198142_m008_2pack_blue.jpg?v=1604748444</image>
       <price_with_vat>12.76</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>go-mini-man/8da4</mpn>
+      <mpn>go-mini-man/cdfc</mpn>
       <ean>7613108238553</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -279,7 +279,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20191024150521_sloggi_start_midi_10126274_m003_2pack_multi.jpg?v=1606150204</image>
       <price_with_vat>14.40</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>start-midi-man/c5d5</mpn>
+      <mpn>start-midi-man/ad3e</mpn>
       <ean>7613125922183</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -294,7 +294,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/STARTMINIMAYROGKRI.jpg?v=1606151827</image>
       <price_with_vat>12.00</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>start-mini-man/3be1</mpn>
+      <mpn>start-mini-man/60c4</mpn>
       <ean>7613113694085</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -309,7 +309,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1211-5_01.jpg?v=1606217703</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1211-5/bef6</mpn>
+      <mpn>w1211-5/fb76</mpn>
       <ean>5203102119990</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -324,7 +324,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1211-5_06_dcffde13-23b6-4174-aa2d-63fba67c0e6b.jpg?v=1606217607</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1211-5/e841</mpn>
+      <mpn>w1211-5/10b6</mpn>
       <ean>5203102120071</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -339,7 +339,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1211-5_02_0ac38ae7-414f-4366-8c43-047ac1770df0.jpg?v=1606217673</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1211-5/df5b</mpn>
+      <mpn>w1211-5/e20d</mpn>
       <ean>5203102120019</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -354,7 +354,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5203813320586.jpg?v=1606728660</image>
       <price_with_vat>8.70</price_with_vat>
       <manufacturer>Apple</manufacturer>
-      <mpn>0410460/b403</mpn>
+      <mpn>0410460/9643</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -369,7 +369,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5203813311522.jpg?v=1606728730</image>
       <price_with_vat>8.70</price_with_vat>
       <manufacturer>Apple</manufacturer>
-      <mpn>0410460/55c3</mpn>
+      <mpn>0410460/e0d8</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -384,7 +384,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5203813111429.jpg?v=1606728119</image>
       <price_with_vat>7.90</price_with_vat>
       <manufacturer>Apple</manufacturer>
-      <mpn>0310340/3a16</mpn>
+      <mpn>0310340/f8b9</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -399,7 +399,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5203813111542.jpg?v=1606728194</image>
       <price_with_vat>7.90</price_with_vat>
       <manufacturer>Apple</manufacturer>
-      <mpn>0310340/853a</mpn>
+      <mpn>0310340/4e5d</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -414,7 +414,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_543c1eee-db32-406c-bb74-e74cbcd576b4.jpg?v=1602483374</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-2501/d24a</mpn>
+      <mpn>2-2501/3649</mpn>
       <ean>5210028019518</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -429,7 +429,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/4_12be2d4b-c19b-420c-b8bf-eb56addf58d7.jpg?v=1606220065</image>
       <price_with_vat>3.60</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-1702/32de</mpn>
+      <mpn>2-1702/abd6</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -444,7 +444,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_72fc9f89-bc46-41e5-82bd-64c1640533ab.jpg?v=1606219899</image>
       <price_with_vat>3.60</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-1702/1802</mpn>
+      <mpn>2-1702/9f74</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -459,7 +459,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_42c060bd-bf99-488b-9b14-d7034f0336ce.jpg?v=1606220015</image>
       <price_with_vat>3.60</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-1702/89ac</mpn>
+      <mpn>2-1702/ee7a</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -474,7 +474,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/mw2-1707-2-022_1-normal.png?v=1606220387</image>
       <price_with_vat>3.60</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-1702/cfb3</mpn>
+      <mpn>2-1702/f090</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -489,7 +489,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/mw2-1707-4-022_1-normal.png?v=1606220490</image>
       <price_with_vat>3.60</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-1702/4224</mpn>
+      <mpn>2-1702/d31f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -504,7 +504,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1064-15_07.jpg?v=1606218911</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1064-15/1e12</mpn>
+      <mpn>w1064-15/6b8f</mpn>
       <ean>5203102120439</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -519,7 +519,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1064-16_02.jpg?v=1606218710</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1064-16/b453</mpn>
+      <mpn>w1064-16/083e</mpn>
       <ean>5203102119914</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -534,7 +534,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1064-16_33_8baf06c3-428b-4219-8bd6-d6b2735521a9.jpg?v=1606218478</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1064-16/662c</mpn>
+      <mpn>w1064-16/d55b</mpn>
       <ean>5203102119938</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -549,7 +549,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1064-15_46_ec2352a7-fe22-43ea-bc09-d3ac37ce883d.jpg?v=1606218879</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1064-15/2f65</mpn>
+      <mpn>w1064-15/f0c8</mpn>
       <ean>5203102120453</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -564,7 +564,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_c270151e-90a1-4fca-acc1-bd0e0f88b63e.jpg?v=1606221606</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-2520/3a48</mpn>
+      <mpn>2-2520/c465</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -579,7 +579,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_e2f9c78d-8f2f-49a6-890e-4fdbef74733b.jpg?v=1606221246</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>2-2520/d2ee</mpn>
+      <mpn>2-2520/3de7</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -594,7 +594,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1950-2_01_2_78999e99-6a93-4416-9a7f-146f54ca7df3.jpg?v=1606160975</image>
       <price_with_vat>12.30</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1950-2/387e</mpn>
+      <mpn>w1950-2/a038</mpn>
       <ean>5203102069592</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -609,7 +609,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1950-2_02.jpg?v=1606161447</image>
       <price_with_vat>12.30</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1950-2/2e1a</mpn>
+      <mpn>w1950-2/6bd5</mpn>
       <ean>5203102092972</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -624,7 +624,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2062_11.jpg?v=1606217268</image>
       <price_with_vat>5.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2062/7866</mpn>
+      <mpn>w2062/e19e</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -639,7 +639,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2062_16_db63cfbc-5afa-44af-8714-744b830c142a.jpg?v=1606217094</image>
       <price_with_vat>5.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2062/1551</mpn>
+      <mpn>w2062/c4af</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -654,7 +654,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2062_03_a431f3d5-0126-4a47-b2aa-6e74b73bb175.jpg?v=1606217037</image>
       <price_with_vat>5.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2062/73a2</mpn>
+      <mpn>w2062/3768</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -669,7 +669,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2062_02_3742c1d6-44a2-451b-9ef0-42e88035f886.jpg?v=1606217168</image>
       <price_with_vat>5.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2062/5fb7</mpn>
+      <mpn>w2062/31db</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -684,7 +684,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W304_75.jpg?v=1606215371</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w304/d139</mpn>
+      <mpn>w304/c3d5</mpn>
       <ean>5203102486030</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -699,7 +699,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W304_02_c0a9fb46-b72f-45f0-85b2-d888d59a6da6.jpg?v=1606214825</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w304/8474</mpn>
+      <mpn>w304/2e22</mpn>
       <ean>5203196850540</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -714,7 +714,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W304_04_aa070f57-3cdd-4b14-9227-66cf8b9e54eb.jpg?v=1606215037</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w304/14a0</mpn>
+      <mpn>w304/02cc</mpn>
       <ean>5203102098318</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -729,7 +729,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W304_16_f22fbe8a-41cf-4b5c-b507-bf9dee9fdd70.jpg?v=1606215220</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w304/cfb7</mpn>
+      <mpn>w304/6ac3</mpn>
       <ean>5203196862444</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -744,7 +744,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1770_03_501f2307-1a0f-4589-9006-db2ed3de2a22.jpg?v=1606215455</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w304/1bbd</mpn>
+      <mpn>w304/8afd</mpn>
       <ean>5203102009963</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -759,7 +759,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W304-3_02.jpg?v=1606216542</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w304-3/41d5</mpn>
+      <mpn>w304-3/60b2</mpn>
       <ean>5203102079898</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -774,7 +774,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W304-3_75_a3b34bc9-659d-4991-83b9-fcbffe80d410.jpg?v=1606216491</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w304-3/0ef7</mpn>
+      <mpn>w304-3/7b0a</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -789,7 +789,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W304-17_02.jpg?v=1603447122</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w304-17/323e</mpn>
+      <mpn>w304-17/3865</mpn>
       <ean>5203102120675</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -804,7 +804,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W324_01.jpg?v=1606218199</image>
       <price_with_vat>3.30</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w324/eef2</mpn>
+      <mpn>w324/50a8</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -819,7 +819,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W324_02_9541ba5c-4947-4aea-9337-e2dfcd59264e.jpg?v=1606218070</image>
       <price_with_vat>3.30</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w324/3912</mpn>
+      <mpn>w324/44a1</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -834,7 +834,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W324_75_57414646-67ce-4dd0-bedf-c52a7af4b035.jpg?v=1606218165</image>
       <price_with_vat>3.30</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w324/fc4c</mpn>
+      <mpn>w324/4251</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -849,7 +849,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W304-18_87.jpg?v=1606215917</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w304-18/cdf2</mpn>
+      <mpn>w304-18/8a12</mpn>
       <ean>5203102120736</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -864,7 +864,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W304-18_02_806e43e0-9e0a-4d87-82a4-529e33bbec3a.jpg?v=1606215864</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w304-18/80e0</mpn>
+      <mpn>w304-18/d36d</mpn>
       <ean>5203102120729</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -879,7 +879,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1064-17_27.jpg?v=1606216195</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1064-17/5800</mpn>
+      <mpn>w1064-17/83f1</mpn>
       <ean>5203102119952</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -894,7 +894,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1064-17_75_3049584b-c738-4d25-82bd-40b6b6961e5e.jpg?v=1606216159</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1064-17/11b1</mpn>
+      <mpn>w1064-17/7dfa</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -909,7 +909,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W100_02.jpg?v=1606219346</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w100/386a</mpn>
+      <mpn>w100/7488</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -924,7 +924,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W100_16_05e32b8e-c7c5-4291-ac3a-e394ea6de9c3.jpg?v=1606219130</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w100/bb96</mpn>
+      <mpn>w100/6593</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -939,7 +939,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W100_75_a64c1974-3bee-4760-bf55-997d5a955db3.jpg?v=1606219218</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w100/6f7f</mpn>
+      <mpn>w100/886f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -954,7 +954,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W100_10_d36bbecd-8bf2-47cf-b29a-94d20664d796.jpg?v=1606219279</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w100/fd67</mpn>
+      <mpn>w100/5e88</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -969,7 +969,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-70775_023-01.jpg?v=1606222568</image>
       <price_with_vat>30.00</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>70775/670b</mpn>
+      <mpn>70775/03e8</mpn>
       <ean>5206821708698</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -984,7 +984,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-70772_198-01.jpg?v=1606222409</image>
       <price_with_vat>31.50</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>70772/5f8c</mpn>
+      <mpn>70772/9210</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -999,7 +999,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_3666.jpg?v=1606223192</image>
       <price_with_vat>20.00</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>710/8d16</mpn>
+      <mpn>710/2f21</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1014,7 +1014,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_3895_40450a14-6cd7-42a3-b062-aa7a80e49295.jpg?v=1606223186</image>
       <price_with_vat>20.00</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>710/c5c9</mpn>
+      <mpn>710/a4e2</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1029,7 +1029,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_3783_4c04d5be-1839-40d5-b5ec-7a3141310b92.jpg?v=1606223611</image>
       <price_with_vat>20.00</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>750/de65</mpn>
+      <mpn>750/fb8f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1044,7 +1044,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-70791_310-01.jpg?v=1605524850</image>
       <price_with_vat>20.90</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>90-70791/23ab</mpn>
+      <mpn>90-70791/077a</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1059,7 +1059,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-11022_045-01.jpg?v=1612767963</image>
       <price_with_vat>20.35</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>90-11022/4b53</mpn>
+      <mpn>90-11022/fbec</mpn>
       <ean>5206821149019</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1074,7 +1074,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-11042_155-01.jpg?v=1612430539</image>
       <price_with_vat>20.35</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>90-11042/7c1f</mpn>
+      <mpn>90-11042/6627</mpn>
       <ean>5206821149118</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1089,7 +1089,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MLGKRI_CLUB.jpg?v=1606163691</image>
       <price_with_vat>5.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>58-γκρί/e69a</mpn>
+      <mpn>58-γκρί/ce97</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1104,7 +1104,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MLLEFKO_4df189f1-afd2-42b1-8b55-370c8894513a.jpg?v=1606206076</image>
       <price_with_vat>5.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>58/bf7b</mpn>
+      <mpn>58/78f8</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1119,7 +1119,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/KMMAVRO.jpg?v=1606165048</image>
       <price_with_vat>5.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>56/62b8</mpn>
+      <mpn>56/28ed</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1134,7 +1134,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MMGKRI.jpg?v=1606165279</image>
       <price_with_vat>5.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>56/5248</mpn>
+      <mpn>56/a0b4</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1149,7 +1149,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/XMLEFKO.jpg?v=1606165611</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>52/22f8</mpn>
+      <mpn>52/de37</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1164,7 +1164,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1970-2leyko.jpg?v=1606158839</image>
       <price_with_vat>15.20</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1970-2/b5f5</mpn>
+      <mpn>w1970-2/4819</mpn>
       <ean>5203102069714</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1179,7 +1179,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1970-2_0cc62427-eee5-462b-88ce-7c8819d9ea1d.jpg?v=1606159220</image>
       <price_with_vat>15.20</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1970-2/8e7f</mpn>
+      <mpn>w1970-2/bf99</mpn>
       <ean>5203102093085</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1194,7 +1194,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1960-2_01.jpg?v=1606159768</image>
       <price_with_vat>15.20</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1960-2/f723</mpn>
+      <mpn>w1960-2/e650</mpn>
       <ean>5203102069653</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1209,7 +1209,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1960-2_02_74d13444-2817-47cb-bdf6-55433978c1d5.jpg?v=1606160256</image>
       <price_with_vat>15.20</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1960-2/6d98</mpn>
+      <mpn>w1960-2/aaab</mpn>
       <ean>5203102093023</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1224,7 +1224,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1757_ae6ee212-6655-4685-9e20-d7009710faf0.jpg?v=1606155470</image>
       <price_with_vat>12.70</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1757/a98e</mpn>
+      <mpn>w1757/22b2</mpn>
       <ean>5203102105320</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1239,7 +1239,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1757mayro.jpg?v=1606153777</image>
       <price_with_vat>12.70</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1757/cddc</mpn>
+      <mpn>w1757/9888</mpn>
       <ean>5203102075289</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1254,7 +1254,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1757_e1656c3d-f68b-465b-b0dd-5b1616d97623.jpg?v=1606154834</image>
       <price_with_vat>12.70</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1757/1b2e</mpn>
+      <mpn>w1757/7e1a</mpn>
       <ean>5203102119273</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1269,7 +1269,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/app-0114143.jpg?v=1606727402</image>
       <price_with_vat>26.80</price_with_vat>
       <manufacturer>Apple</manufacturer>
-      <mpn>0114143/931f</mpn>
+      <mpn>0114143/fa50</mpn>
       <ean>5203813764076</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1284,7 +1284,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5203813764069.jpg?v=1606727446</image>
       <price_with_vat>26.80</price_with_vat>
       <manufacturer>Apple</manufacturer>
-      <mpn>0114143/a2db</mpn>
+      <mpn>0114143/5103</mpn>
       <ean>5203813764038</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1299,7 +1299,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/jf2btora04-l__1_7.jpg?v=1610620906</image>
       <price_with_vat>16.10</price_with_vat>
       <manufacturer>JohnFrank</manufacturer>
-      <mpn>jf2btora01/1/7850</mpn>
+      <mpn>jf2btora01/1/2b96</mpn>
       <ean>5723065024773</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1314,7 +1314,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/20190220125903_b07e7b2f.jpg?v=1606729323</image>
       <price_with_vat>15.90</price_with_vat>
       <manufacturer>Apple</manufacturer>
-      <mpn>0112149/13fe</mpn>
+      <mpn>0112149/ed3d</mpn>
       <ean>5203813759676</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1329,7 +1329,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/jf2btora01-l__1.jpg?v=1610620230</image>
       <price_with_vat>16.10</price_with_vat>
       <manufacturer>JohnFrank</manufacturer>
-      <mpn>jf2btora01/4/05cb</mpn>
+      <mpn>jf2btora01/4/d74c</mpn>
       <ean>5723065021676</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1344,7 +1344,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/jf2bmc01.jpg?v=1607771356</image>
       <price_with_vat>16.10</price_with_vat>
       <manufacturer>JohnFrank</manufacturer>
-      <mpn>JF2BMC01/5bcd</mpn>
+      <mpn>JF2BMC01/583f</mpn>
       <ean>8680848557021</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1359,7 +1359,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/uclu-john-frank-boxer-dba2.jpg?v=1605701855</image>
       <price_with_vat>20.70</price_with_vat>
       <manufacturer>JohnFrank</manufacturer>
-      <mpn>jf3b08/e09a</mpn>
+      <mpn>jf3b08/9258</mpn>
       <ean>8680848529264</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1374,7 +1374,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w1770-27_2.jpg?v=1604657837</image>
       <price_with_vat>9.73</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1770-27/49a1</mpn>
+      <mpn>w1770-27/7dbb</mpn>
       <ean>5203102118016</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1389,7 +1389,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w1770-26_2.jpg?v=1604657504</image>
       <price_with_vat>9.73</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1770-26/5fc0</mpn>
+      <mpn>w1770-26/c300</mpn>
       <ean>5203102117972</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1404,7 +1404,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/johnfrank_028.jpg?v=1607771755</image>
       <price_with_vat>8.50</price_with_vat>
       <manufacturer>JohnFrank</manufacturer>
-      <mpn>JFBES01/0af6</mpn>
+      <mpn>JFBES01/ee22</mpn>
       <ean>06821173</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1419,7 +1419,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-20518_045-01.jpg?v=1612425890</image>
       <price_with_vat>18.53</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>90-20518/bd81</mpn>
+      <mpn>90-20518/3282</mpn>
       <ean>5206821095699</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1434,7 +1434,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-20511_045-01.jpg?v=1612429907</image>
       <price_with_vat>18.53</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>90-20511/f891</mpn>
+      <mpn>90-20511/97ed</mpn>
       <ean>5206821433545</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1449,7 +1449,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1770_03.jpg?v=1606209376</image>
       <price_with_vat>9.52</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1770/9572</mpn>
+      <mpn>w1770/afa5</mpn>
       <ean>5203102106648</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1464,7 +1464,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1770_02_2_8c656f70-70f2-4ccb-877e-f7f0a7524601.jpg?v=1609165551</image>
       <price_with_vat>9.52</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1770/b29d</mpn>
+      <mpn>w1770/b44f</mpn>
       <ean>5203102106594</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1479,7 +1479,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/john-frank-dijital-baskili-boxer-multico-74fc.jpg?v=1607772136</image>
       <price_with_vat>8.96</price_with_vat>
       <manufacturer>JohnFrank</manufacturer>
-      <mpn>JFBD318/6764</mpn>
+      <mpn>JFBD318/742c</mpn>
       <ean>19997087</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1494,7 +1494,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-20519_861-01.jpg?v=1612426067</image>
       <price_with_vat>18.53</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>90-20519/5ba3</mpn>
+      <mpn>90-20519/27f5</mpn>
       <ean>5206821096986</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1509,7 +1509,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MAVROEXPLOSIVE.jpg?v=1606206953</image>
       <price_with_vat>5.44</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>411-explosive/4b3f</mpn>
+      <mpn>411-explosive/aeb1</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1524,7 +1524,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MAVROTRIXROMO3.jpg?v=1606206776</image>
       <price_with_vat>5.44</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>411/3c0f</mpn>
+      <mpn>411/fcba</mpn>
       <ean>411</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1539,7 +1539,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MPORNTOMPLE.jpg?v=1606207483</image>
       <price_with_vat>5.44</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>411-Μπορντώ/8672</mpn>
+      <mpn>411-Μπορντώ/6063</mpn>
       <ean>411</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1554,7 +1554,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/ANTRHAKI3.jpg?v=1606208841</image>
       <price_with_vat>5.44</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>511/a5ff</mpn>
+      <mpn>511/a439</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1569,7 +1569,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MAVRO2.jpg?v=1606208709</image>
       <price_with_vat>5.44</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>511/fc32</mpn>
+      <mpn>511/1318</mpn>
       <ean>511</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1584,7 +1584,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20201106123115_apple_boxer_0110951_andriko_boxer_se_mayro_chroma.jpg?v=1606806082</image>
       <price_with_vat>7.20</price_with_vat>
       <manufacturer>Apple</manufacturer>
-      <mpn>0110951/13b8</mpn>
+      <mpn>0110951/ca45</mpn>
       <ean>5203813087557</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1599,7 +1599,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/CHR-6_MULTI.jpg?v=1607592313</image>
       <price_with_vat>9.73</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>CHR-6/a043</mpn>
+      <mpn>CHR-6/e89f</mpn>
       <ean>5203102121672</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1614,7 +1614,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200731151048_andriko_esoroucho_mpoxeraki_apple_0110931_mayro_mpornto_mayro.jpg?v=1606806341</image>
       <price_with_vat>7.20</price_with_vat>
       <manufacturer>Apple</manufacturer>
-      <mpn>0110931/2437</mpn>
+      <mpn>0110931/3cc5</mpn>
       <ean>5203813755135</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1629,7 +1629,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/96-29456_045-01.jpg?v=1605594931</image>
       <price_with_vat>14.35</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>29456/f1dd</mpn>
+      <mpn>29456/80a8</mpn>
       <ean>5206821663416</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1644,7 +1644,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/shopifyphoto-squre_dc18616b-f484-4fe9-b129-5f684f2bc9ea.jpg?v=1602767234</image>
       <price_with_vat>6.00</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>20270/a239</mpn>
+      <mpn>20270/c186</mpn>
       <ean>5201487231511</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1659,7 +1659,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/ninacubmayrogkri.jpg?v=1610016136</image>
       <price_with_vat>4.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>611/424f</mpn>
+      <mpn>611/83ae</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1674,7 +1674,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MAVROTRIXROMO31.jpg?v=1606817854</image>
       <price_with_vat>4.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>611/f520</mpn>
+      <mpn>611/ae3a</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1689,7 +1689,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MAVROROUA4.jpg?v=1609225556</image>
       <price_with_vat>4.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>611/9d84</mpn>
+      <mpn>611/72f0</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1704,7 +1704,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MPLETRIXROMOPISO.jpg?v=1606817722</image>
       <price_with_vat>4.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>611/756a</mpn>
+      <mpn>611/7e98</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1719,7 +1719,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/ANTHRAKI5.jpg?v=1606157076</image>
       <price_with_vat>4.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>711/0bc0</mpn>
+      <mpn>711/e411</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1734,7 +1734,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_81eff42c-16bc-414e-a2f6-c1bd05ce22f4.jpg?v=1602851951</image>
       <price_with_vat>1.70</price_with_vat>
       <manufacturer>Yumese</manufacturer>
-      <mpn>4402/ad01</mpn>
+      <mpn>4402/f2a9</mpn>
       <ean>01812019</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1749,7 +1749,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_80e5db54-26bc-4112-aa36-3b1222f43ccf.jpg?v=1602852308</image>
       <price_with_vat>1.70</price_with_vat>
       <manufacturer>Yumese</manufacturer>
-      <mpn>k511/9ede</mpn>
+      <mpn>k511/95fa</mpn>
       <ean>8697781876386</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1764,7 +1764,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/shopifyphoto-squre_bd862870-7e44-4116-8b6a-2d1bccecb5d6.jpg?v=1602853015</image>
       <price_with_vat>1.70</price_with_vat>
       <manufacturer>Yumese</manufacturer>
-      <mpn>4406/568f</mpn>
+      <mpn>4406/8037</mpn>
       <ean>8697781940032</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1779,7 +1779,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/dsc_0153_7.jpg?v=1603032863</image>
       <price_with_vat>4.30</price_with_vat>
       <manufacturer>Disney</manufacturer>
-      <mpn>mc12949/8bf9</mpn>
+      <mpn>mc12949/5c64</mpn>
       <ean>8691109625618</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1794,7 +1794,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/shopifyphoto-squre_e89e646c-a8ce-4c14-a1bd-374a26847b16.jpg?v=1602850068</image>
       <price_with_vat>5.00</price_with_vat>
       <manufacturer>Yumese</manufacturer>
-      <mpn>4403-1/02bd</mpn>
+      <mpn>4403-1/b1bb</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1809,7 +1809,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/shopifyphoto-squre_56c95465-bf7a-46ef-91eb-158f510e0407.jpg?v=1602850300</image>
       <price_with_vat>5.00</price_with_vat>
       <manufacturer>Yumese</manufacturer>
-      <mpn>4409/36db</mpn>
+      <mpn>4409/552a</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1824,7 +1824,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/shopifyphoto-squre_4f22babe-5d02-4b8a-9e99-ca51e8cf7e2f.jpg?v=1602920919</image>
       <price_with_vat>15.00</price_with_vat>
       <manufacturer>Disney</manufacturer>
-      <mpn>MN13299/2f86</mpn>
+      <mpn>MN13299/3011</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1833,13 +1833,73 @@
       <category>Βρεφικά - Φορμάκια</category>
     </product>
     <product>
+      <id>5917689872545</id>
+      <name>Βρεφική Πυτζάμα βαμβακερή Γκρί NINA CLUB</name>
+      <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδική-πυτζάμα-βαμβακερή-nina-club-3</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200929113829_nina_club_pitzama_le_cirque_132_grey_1f0a7ff7-eb67-4fcf-ada7-831b3e59f39d.jpg?v=1606471140</image>
+      <price_with_vat>8.80</price_with_vat>
+      <manufacturer>NinaClub</manufacturer>
+      <mpn>132/9d09</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>3-6 (μηνών), 6-12 (μηνών), 12-18 (μηνών)</size>
+      <color>Γκρί</color>
+      <category>Παιδικά - Πυτζάμες</category>
+    </product>
+    <product>
+      <id>5917683941537</id>
+      <name>Βρεφική Πυτζάμα βαμβακερή Κίτρινο NINA CLUB</name>
+      <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδική-πυτζάμα-βαμβακερή-nina-club-1</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200921155154_nina_club_pitzama_le_cirque_132_yellow_c93392d2-ac51-4b25-8e2b-288be5d76447.jpg?v=1606470896</image>
+      <price_with_vat>8.80</price_with_vat>
+      <manufacturer>NinaClub</manufacturer>
+      <mpn>132/9d25</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>3-6 (μηνών), 6-12 (μηνών), 12-18 (μηνών)</size>
+      <color>Κίτρινο</color>
+      <category>Παιδικά - Πυτζάμες</category>
+    </product>
+    <product>
+      <id>5917687054497</id>
+      <name>Βρεφική Πυτζάμα βαμβακερή Ρόζ NINA CLUB</name>
+      <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδική-πυτζάμα-βαμβακερή-nina-club-2</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200921155313_nina_club_pitzama_le_cirque_132_pink_b8b740ef-418f-4f46-b501-3b06919c1776.jpg?v=1606471011</image>
+      <price_with_vat>8.80</price_with_vat>
+      <manufacturer>NinaClub</manufacturer>
+      <mpn>132/1f8f</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>3-6 (μηνών), 6-12 (μηνών), 12-18 (μηνών)</size>
+      <color>Ρόζ</color>
+      <category>Παιδικά - Πυτζάμες</category>
+    </product>
+    <product>
+      <id>5917817077921</id>
+      <name>Βρεφική πυτζάμα βαμβακερή Ρόζ NINA CLUB</name>
+      <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδική-πυτζάμα-βαμβακερή-nina-club-4</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_6025_1dd93e3f-f0bd-43ff-8bee-5d684bfd6d13.jpg?v=1606475752</image>
+      <price_with_vat>8.20</price_with_vat>
+      <manufacturer>NinaClub</manufacturer>
+      <mpn>244/79c8</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>1 (ετών), 2 (ετών), 3 (ετών), 4 (ετών), 5 (ετών), 6 (ετών), 7 (ετών), 8 (ετών), 9 (ετών), 10 (ετών)</size>
+      <color>Ρόζ</color>
+      <category>Παιδικά - Πυτζάμες</category>
+    </product>
+    <product>
       <id>5787186495649</id>
       <name>Βρεφικό βαμβακερό κορμάκι 2 τεμάχια DISNEY</name>
       <link>https://sovrakofanela.myshopify.com/products/βρεφικό-κορμάκι-μακρύ-μανίκι-disney-mickey</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/mc13341_ekru-1.jpg?v=1602919045</image>
       <price_with_vat>11.00</price_with_vat>
       <manufacturer>Disney</manufacturer>
-      <mpn>MC13341/84f2</mpn>
+      <mpn>MC13341/496d</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1854,7 +1914,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/large_20200928110408_formaki_nina_club_72_lachani_leyko.jpg?v=1606125229</image>
       <price_with_vat>4.30</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>72/8219</mpn>
+      <mpn>72/c44a</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1869,7 +1929,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/74-LAXANI.jpg?v=1606204304</image>
       <price_with_vat>4.00</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>74/ab8d</mpn>
+      <mpn>74/67ec</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1884,7 +1944,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/shopifyphoto-squre_c74afff6-c8f9-4310-a47c-58faadea41fa.jpg?v=1606477023</image>
       <price_with_vat>10.20</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>47/5659</mpn>
+      <mpn>47/838c</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1899,7 +1959,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_9e1c4609-af8c-42d8-b381-2ca955b23916.jpg?v=1606477464</image>
       <price_with_vat>9.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>46/03fc</mpn>
+      <mpn>46/bc01</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1914,7 +1974,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/47-gri-kokkino.jpg?v=1606477075</image>
       <price_with_vat>10.20</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>47/597c</mpn>
+      <mpn>47/59a5</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1929,7 +1989,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3_72af982e-96c8-4fda-81a7-902fb2143285.jpg?v=1606477430</image>
       <price_with_vat>9.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>46/0caa</mpn>
+      <mpn>46/aa9d</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1944,7 +2004,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/images.jpg?v=1606477718</image>
       <price_with_vat>9.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>46/75ea</mpn>
+      <mpn>46/759a</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1959,7 +2019,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/47-roz_e501ae9e-b6b2-408f-aa60-3c63f2298662.jpg?v=1606476925</image>
       <price_with_vat>10.20</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>47/d4e0</mpn>
+      <mpn>47/903d</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1974,7 +2034,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/mn13424_ekru.jpg?v=1602921462</image>
       <price_with_vat>12.70</price_with_vat>
       <manufacturer>Disney</manufacturer>
-      <mpn>MN13424/a1eb</mpn>
+      <mpn>MN13424/f052</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -1989,7 +2049,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/301-KITRINO.jpg?v=1606478580</image>
       <price_with_vat>10.20</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>301/0222</mpn>
+      <mpn>301/0152</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2004,7 +2064,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/301-ROZ_9a6273c7-c2bb-454c-816d-b924236e6274.jpg?v=1606478554</image>
       <price_with_vat>10.20</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>301/bac6</mpn>
+      <mpn>301/6630</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2019,13 +2079,13 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/img_1869_40f4e30e-d618-4d1e-8b2f-0b13ccf1039c.jpg?v=1606481219</image>
       <price_with_vat>8.40</price_with_vat>
       <manufacturer>Kitty</manufacturer>
-      <mpn>k9907/a343</mpn>
+      <mpn>k9907/f7f2</mpn>
       <ean>8680797041206</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
       <size>0-18 μηνών</size>
       <color>Πράσινο</color>
-      <category>Σετ</category>
+      <category>Βρεφικά - Σετ</category>
     </product>
     <product>
       <id>5805617610913</id>
@@ -2034,7 +2094,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2011-54_4.jpg?v=1604750977</image>
       <price_with_vat>10.40</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2011-54/8237</mpn>
+      <mpn>w2011-54/dd9a</mpn>
       <ean>5203102117460</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2049,7 +2109,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2013_0202_3.jpg?v=1606302402</image>
       <price_with_vat>10.10</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2013/5dde</mpn>
+      <mpn>w2013/d4d7</mpn>
       <ean>5203102996065</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2064,7 +2124,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122161901_2.jpg?v=1606306789</image>
       <price_with_vat>6.80</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>247-tai100-women-1/82fa</mpn>
+      <mpn>247-tai100-women-1/1fb9</mpn>
       <ean>07750793</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2079,7 +2139,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122161914_2_dea6a06b-4e92-4b19-9d0f-d40660a9cb59.jpg?v=1606306816</image>
       <price_with_vat>6.80</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>247-tai100-women-2/ead2</mpn>
+      <mpn>247-tai100-women-2/fcd8</mpn>
       <ean>7613108168270</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2094,7 +2154,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122161917_2_3017bba7-b35d-46c3-a929-3abe940f2b17.jpg?v=1606306711</image>
       <price_with_vat>6.80</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>247-tai100-women-3/a54d</mpn>
+      <mpn>247-tai100-women-3/582e</mpn>
       <ean>7613108168348</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2109,7 +2169,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122188065_67cacf41-fffe-4e78-ba30-cfd4142cbeca.jpg?v=1606304156</image>
       <price_with_vat>13.50</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>cotton-tai-women-2/c2e2</mpn>
+      <mpn>cotton-tai-women-2/0043</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2124,7 +2184,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122188059_ef7d15cf-98e5-4036-8642-903c41a1519d.jpg?v=1606304349</image>
       <price_with_vat>13.50</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>cotton-tai-women-1/7ebe</mpn>
+      <mpn>cotton-tai-women-1/c6d8</mpn>
       <ean>7613112893731</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2139,7 +2199,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2012-46_MULTI.jpg?v=1606300414</image>
       <price_with_vat>11.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2012-46/b389</mpn>
+      <mpn>w2012-46/6e17</mpn>
       <ean>5203102117576</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2154,7 +2214,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-92203_005-01.jpg?v=1603016387</image>
       <price_with_vat>11.90</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>92203/3f6b</mpn>
+      <mpn>92203/7d1b</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2169,7 +2229,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/dsc_0012_6_6.jpg?v=1609330579</image>
       <price_with_vat>2.50</price_with_vat>
       <manufacturer>Sexen</manufacturer>
-      <mpn>2004/efea</mpn>
+      <mpn>2004/66a2</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2184,7 +2244,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2011_0202_ab4da5ce-8b0a-4fce-a81a-247002c090bb.jpg?v=1606302037</image>
       <price_with_vat>10.10</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2011/03b4</mpn>
+      <mpn>w2011/b279</mpn>
       <ean>5203102995709</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2199,7 +2259,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2014_0202.jpg?v=1606300074</image>
       <price_with_vat>11.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2014/84f0</mpn>
+      <mpn>w2014/d601</mpn>
       <ean>5203102994580</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2214,7 +2274,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2014_4061_4_24f64312-ce97-4b67-8b87-dff2171022e5.jpg?v=1606299928</image>
       <price_with_vat>11.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2014/c7cd</mpn>
+      <mpn>w2014/81f4</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2229,7 +2289,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2014_1919.jpg?v=1606300212</image>
       <price_with_vat>11.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2014/c8b2</mpn>
+      <mpn>w2014/2a23</mpn>
       <ean>5203102994719</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2244,7 +2304,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2014-40_MULTI_4.jpg?v=1607067784</image>
       <price_with_vat>11.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2014-40/41ab</mpn>
+      <mpn>w2014-40/9572</mpn>
       <ean>5203102117705</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2259,7 +2319,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w2014-41_4.jpg?v=1604751472</image>
       <price_with_vat>12.30</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2014-41/b7b5</mpn>
+      <mpn>w2014-41/469b</mpn>
       <ean>5203102117736</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2274,7 +2334,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2018-5.jpg?v=1604751420</image>
       <price_with_vat>12.30</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2018-5/1945</mpn>
+      <mpn>w2018-5/99eb</mpn>
       <ean>5203102117934</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2289,7 +2349,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_de4cc248-6b90-4a97-811e-3bfa9976cc59.jpg?v=1606460026</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-2501/51c4</mpn>
+      <mpn>1-2501/0531</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2304,7 +2364,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_e1a1b140-919c-40fa-ad6a-02c1c077fe2f.jpg?v=1606459999</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-2500/b9d4</mpn>
+      <mpn>1-2500/5839</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2319,7 +2379,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/6_0c42fcf8-2869-4c34-a41c-adec30b1ceda.jpg?v=1606459639</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-2506/2d1d</mpn>
+      <mpn>1-2506/1e27</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2334,7 +2394,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_26b13314-6bc7-48b7-885b-acf184f0d05b.jpg?v=1606459485</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-2506/dc76</mpn>
+      <mpn>1-2506/422b</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2349,7 +2409,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3_f29703df-b13e-478e-87e0-0677abd84d76.jpg?v=1606459539</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-2506/330b</mpn>
+      <mpn>1-2506/62b3</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2364,7 +2424,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/4_88c02462-7d2a-47d3-a23a-60e4bf9eacc6.jpg?v=1606459606</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-2506/0e53</mpn>
+      <mpn>1-2506/4363</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2379,7 +2439,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_1024x1024_2x_fb7b14a2-df03-4323-96f2-84f97284bd31.png?v=1606459835</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-2506/eadb</mpn>
+      <mpn>1-2506/b883</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2394,7 +2454,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5.jpg?v=1606460768</image>
       <price_with_vat>3.80</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0609/de00</mpn>
+      <mpn>1-0609/ca6e</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2409,7 +2469,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/4_b9e29f7c-cea3-447e-b001-0de7d36edc73.jpg?v=1606460513</image>
       <price_with_vat>3.80</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0609/98b2</mpn>
+      <mpn>1-0609/4818</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2424,7 +2484,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_a7394328-96b5-43fd-86dd-9dfd4051c7cb.jpg?v=1606460577</image>
       <price_with_vat>3.80</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0609/c657</mpn>
+      <mpn>1-0609/f176</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2439,7 +2499,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_d7158adb-bf73-4db0-aaca-8dab26ea5d4b.jpg?v=1606460651</image>
       <price_with_vat>3.80</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0609/baab</mpn>
+      <mpn>1-0609/ea1c</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2454,7 +2514,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3_8b5f3053-0e33-4711-9337-04c7f284c6ac.jpg?v=1606460725</image>
       <price_with_vat>3.80</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0609/0c63</mpn>
+      <mpn>1-0609/788f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2469,7 +2529,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/6_1024x1024_2x_0e65c035-1434-4f75-872c-31e7e1542c76.png?v=1606460896</image>
       <price_with_vat>3.80</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0609/d273</mpn>
+      <mpn>1-0609/2ef1</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2484,7 +2544,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_3087_600x6300_4994a9aa-c298-49d8-a8f7-eea9f9d28931.jpg?v=1606381680</image>
       <price_with_vat>9.60</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>68/021c</mpn>
+      <mpn>68/f0be</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2499,7 +2559,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_2836_8744ad09-7fe8-423d-b92d-b778224926fe.jpg?v=1606381421</image>
       <price_with_vat>9.60</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>68/d833</mpn>
+      <mpn>68/1a3c</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2514,7 +2574,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_3087_600x600_d0b38504-fd04-4ed2-9bfd-9c03a1bc17fe.jpg?v=1606381610</image>
       <price_with_vat>9.60</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>68/8a74</mpn>
+      <mpn>68/f52b</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2529,7 +2589,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90e4e491c2e476515149c8b55a064c31.jpg?v=1602917792</image>
       <price_with_vat>16.00</price_with_vat>
       <manufacturer>Sexen</manufacturer>
-      <mpn>63015/2cc5</mpn>
+      <mpn>63015/7a4d</mpn>
       <ean>8680768126598</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2544,7 +2604,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/s24tem6036-12434-t.jpg?v=1608799999</image>
       <price_with_vat>25.60</price_with_vat>
       <manufacturer>Sevim</manufacturer>
-      <mpn>12434/0046</mpn>
+      <mpn>12434/1fa4</mpn>
       <ean>8681033311954</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2559,7 +2619,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/59013-_1.jpg?v=1609152649</image>
       <price_with_vat>16.00</price_with_vat>
       <manufacturer>seyah</manufacturer>
-      <mpn>59013/e333</mpn>
+      <mpn>59013/8d4c</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2574,7 +2634,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/63036-_3.jpg?v=1602918270</image>
       <price_with_vat>16.00</price_with_vat>
       <manufacturer>Sexen</manufacturer>
-      <mpn>63036/9a31</mpn>
+      <mpn>63036/718e</mpn>
       <ean>8680768126802</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2589,7 +2649,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-51894_862-01.jpg?v=1605528788</image>
       <price_with_vat>27.90</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>51894/a1ba</mpn>
+      <mpn>51894/f2fa</mpn>
       <ean>5206821723301</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2604,7 +2664,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122188097.jpg?v=1606303241</image>
       <price_with_vat>13.50</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>lace-247-women-3/3b65</mpn>
+      <mpn>lace-247-women-3/91f5</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2619,7 +2679,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122188079_e4c7d062-f009-45e9-aade-a5c7d29de586.jpg?v=1606303275</image>
       <price_with_vat>13.50</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>lace-247-women-1/eff4</mpn>
+      <mpn>lace-247-women-1/4282</mpn>
       <ean>7613112895285</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2634,7 +2694,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122188086_75420022-ed45-4273-884c-1b6a740fa468.jpg?v=1606303182</image>
       <price_with_vat>13.50</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>lace-247-women-2/4d6d</mpn>
+      <mpn>lace-247-women-2/dcc5</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2649,7 +2709,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122162336.jpg?v=1606306271</image>
       <price_with_vat>11.60</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>weekend-hipster-women-4/6809</mpn>
+      <mpn>weekend-hipster-women-4/3560</mpn>
       <ean>7613108292395</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2664,7 +2724,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122162340_57203bf3-1bb2-456b-bc4d-da6f25674c4e.jpg?v=1606306205</image>
       <price_with_vat>11.60</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>weekend-hipster-women-1/abc3</mpn>
+      <mpn>weekend-hipster-women-1/4fb2</mpn>
       <ean>7613108565765</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2679,7 +2739,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2012-45_MULTI.jpg?v=1606300598</image>
       <price_with_vat>11.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2012-45/ef68</mpn>
+      <mpn>w2012-45/fcd3</mpn>
       <ean>5203102117538</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2694,7 +2754,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w133-1_39.jpg?v=1606392858</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w133-1/d21f</mpn>
+      <mpn>w133-1/944d</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2709,7 +2769,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w133-1_40_8f54a07d-69c6-4fc2-a4e7-929287daa523.jpg?v=1606392821</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w133-1/ccff</mpn>
+      <mpn>w133-1/004f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2724,7 +2784,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w140_14.jpg?v=1606394361</image>
       <price_with_vat>4.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w140/4b9e</mpn>
+      <mpn>w140/d0b7</mpn>
       <ean>5203196858324</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2739,7 +2799,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W140_02_6b116404-541a-41a7-ae5d-5478653a9857.jpg?v=1606394225</image>
       <price_with_vat>4.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w140/f360</mpn>
+      <mpn>w140/2ddc</mpn>
       <ean>5203102140000</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2754,7 +2814,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w140_01_c3c8bf7c-0ad6-4f79-b044-9e6d7e07e667.jpg?v=1606394312</image>
       <price_with_vat>4.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w140/c577</mpn>
+      <mpn>w140/394e</mpn>
       <ean>5203102010341</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2769,7 +2829,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/Screenshot_1_10bb9abe-a31a-4e5b-9a7c-ec8c4bce0fb8.png?v=1606395752</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0612/c461</mpn>
+      <mpn>1-0612/e8e7</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2784,7 +2844,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/Screenshot_3_59137bbe-6f24-4df7-bca3-755343dd0dc8.png?v=1606395526</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0612/96cb</mpn>
+      <mpn>1-0612/e654</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2799,7 +2859,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/Screenshot_2_6fdab5c9-d072-4d62-b64e-bd7539f5c441.png?v=1606395459</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0612/d3bf</mpn>
+      <mpn>1-0612/82f7</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2814,7 +2874,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/Screenshot_4_f21bbedf-2314-4926-9e4b-335a05bc04a4.png?v=1606395578</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0612/70ea</mpn>
+      <mpn>1-0612/b372</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2829,7 +2889,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/Screenshot_5_cecae38f-3f78-47a0-8015-e9cec3dbe4b2.png?v=1606395645</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0612/68b1</mpn>
+      <mpn>1-0612/678a</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2844,7 +2904,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/Screenshot_6_b5f819f2-bae4-41e8-bf26-0ffe14a56d5d.png?v=1606395719</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-0612/1300</mpn>
+      <mpn>1-0612/59eb</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2859,7 +2919,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W333_02.jpg?v=1603434287</image>
       <price_with_vat>4.40</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w333/1d38</mpn>
+      <mpn>w333/d058</mpn>
       <ean>5203102108000</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2874,7 +2934,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_510e4f52-9915-44c7-a310-9e89c7647648.jpg?v=1603434949</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w333-9/4669</mpn>
+      <mpn>w333-9/ad40</mpn>
       <ean>5203102120491</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2889,7 +2949,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W333-10_02.jpg?v=1606393359</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w333-10/0452</mpn>
+      <mpn>w333-10/7de5</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2904,7 +2964,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W333-11_51.jpg?v=1606393169</image>
       <price_with_vat>4.40</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w333-11/f762</mpn>
+      <mpn>w333-11/0eab</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2919,7 +2979,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W333-11_75_370db35a-fb6c-484d-8dd2-b4d4f7313e14.jpg?v=1606393148</image>
       <price_with_vat>4.40</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w333-11/4bf3</mpn>
+      <mpn>w333-11/58b0</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2934,7 +2994,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W333-10_29_1da43e6c-d646-416a-bb2f-915fc6ce7c25.jpg?v=1606393311</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w333-10/94be</mpn>
+      <mpn>w333-10/436f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2949,7 +3009,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1312_38.jpg?v=1606394871</image>
       <price_with_vat>3.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1312/ed64</mpn>
+      <mpn>w1312/787c</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2964,7 +3024,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1312_02_0749e2fe-33fa-428e-82ad-fedd9d859a48.jpg?v=1606394750</image>
       <price_with_vat>3.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1312/ea34</mpn>
+      <mpn>w1312/220f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2979,7 +3039,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1312_31_7cd954d6-960e-4b12-aeda-1d64f1268e9b.jpg?v=1606394821</image>
       <price_with_vat>3.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w1312/2ac8</mpn>
+      <mpn>w1312/0352</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -2994,7 +3054,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1312_55.jpg?v=1606394955</image>
       <price_with_vat>3.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>W1312/8804</mpn>
+      <mpn>W1312/2bc4</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3009,7 +3069,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w332_02.jpg?v=1606394618</image>
       <price_with_vat>3.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w332/aeb9</mpn>
+      <mpn>w332/8312</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3024,7 +3084,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w332_75_92f9ebb3-5524-4797-bef6-54543a9f3af8.jpg?v=1606394559</image>
       <price_with_vat>3.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w332/31a2</mpn>
+      <mpn>w332/56bd</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3039,7 +3099,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w133-2.jpg?v=1606393811</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w133-2/8e39</mpn>
+      <mpn>w133-2/d259</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3054,7 +3114,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w133-2_02_a0547cbd-4ae0-41fb-bf4b-275ec0068d0c.jpg?v=1606393791</image>
       <price_with_vat>3.90</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w133-3/86c9</mpn>
+      <mpn>w133-3/513f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3069,7 +3129,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/img_5476.jpg?v=1609329959</image>
       <price_with_vat>2.50</price_with_vat>
       <manufacturer>Sexen</manufacturer>
-      <mpn>3051/9173</mpn>
+      <mpn>3051/8695</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3084,7 +3144,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-91930_003-01.jpg?v=1612431482</image>
       <price_with_vat>20.40</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>90-91930/5b47</mpn>
+      <mpn>90-91930/2598</mpn>
       <ean>5201487413207</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3099,7 +3159,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/john-frank-women-natural-sense-uclu-braz-ab84.jpg?v=1605703725</image>
       <price_with_vat>17.60</price_with_vat>
       <manufacturer>JohnFrank</manufacturer>
-      <mpn>WJF3NA-1/a681</mpn>
+      <mpn>WJF3NA-1/1d15</mpn>
       <ean>8680848582528</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3114,7 +3174,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_9a96d376-b137-4989-a584-3f6c7fb9b074.jpg?v=1606308909</image>
       <price_with_vat>7.10</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>89000/ee88</mpn>
+      <mpn>89000/10d7</mpn>
       <ean>5201487215849</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3129,7 +3189,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-89000_005-01_b6ddfb7a-390c-4672-861f-d52e83351286.jpg?v=1606308819</image>
       <price_with_vat>7.10</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>89000/2aa9</mpn>
+      <mpn>89000/480f</mpn>
       <ean>5201487018518</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3144,7 +3204,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-89000_048-01_28a37749-9849-42d5-8c99-354cb4fd199a.jpg?v=1606308878</image>
       <price_with_vat>7.10</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>89000/47e3</mpn>
+      <mpn>89000/fa92</mpn>
       <ean>5201487018563</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3159,7 +3219,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2018-4_6.jpg?v=1604751392</image>
       <price_with_vat>12.30</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2018-4/1bce</mpn>
+      <mpn>w2018-4/5f73</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3174,7 +3234,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2211_02_7aedafb0-0ea7-4b14-907c-f6eac9355c19.jpg?v=1606390016</image>
       <price_with_vat>11.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2211/9f86</mpn>
+      <mpn>w2211/d17c</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3189,7 +3249,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2211_19_2.jpg?v=1606389951</image>
       <price_with_vat>11.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2211/62d8</mpn>
+      <mpn>w2211/0446</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3204,7 +3264,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-81327_815-01.jpg?v=1606307980</image>
       <price_with_vat>13.50</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>81327/3934</mpn>
+      <mpn>81327/cb0a</mpn>
       <ean>5206821836469</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3219,7 +3279,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-81323_828-01.jpg?v=1605591136</image>
       <price_with_vat>13.00</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>81323/43d6</mpn>
+      <mpn>81323/3e00</mpn>
       <ean>5206821819080</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3234,7 +3294,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20210105094358_dorina_ida_d000088mi003_2x0007_blue_black.jpg?v=1611059566</image>
       <price_with_vat>16.00</price_with_vat>
       <manufacturer>Dorina</manufacturer>
-      <mpn>d000088mi003/5ec0</mpn>
+      <mpn>d000088mi003/a9a0</mpn>
       <ean>4894728022569</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3249,7 +3309,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/img_5518.jpg?v=1610192089</image>
       <price_with_vat>20.10</price_with_vat>
       <manufacturer>JohnFrank</manufacturer>
-      <mpn>WJF3BW-1/3fe6</mpn>
+      <mpn>WJF3BW-1/a05a</mpn>
       <ean>6688808576640</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3264,7 +3324,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w2017-5_2.jpg?v=1604735322</image>
       <price_with_vat>18.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2017-5/42b4</mpn>
+      <mpn>w2017-5/dd01</mpn>
       <ean>5203102117767</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3279,7 +3339,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-81344_816-01.jpg?v=1605591577</image>
       <price_with_vat>8.20</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>81344/7388</mpn>
+      <mpn>81344/c257</mpn>
       <ean>5206821817512</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3294,7 +3354,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2018_0202.jpg?v=1606299458</image>
       <price_with_vat>11.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2018/f595</mpn>
+      <mpn>w2018/55aa</mpn>
       <ean>5203102113882</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3309,7 +3369,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2018_4061_5.jpg?v=1607068007</image>
       <price_with_vat>11.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2018/84c8</mpn>
+      <mpn>w2018/5155</mpn>
       <ean>07168154</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3324,7 +3384,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_d28095bf-635b-4f12-b969-62457ca418f9.jpg?v=1602845773</image>
       <price_with_vat>2.00</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>24720/9888</mpn>
+      <mpn>24720/9543</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3339,7 +3399,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_dfaf9c84-8718-4ac2-a60d-5e364f198bd8.jpg?v=1602847286</image>
       <price_with_vat>2.40</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>/be12</mpn>
+      <mpn>/025f</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3354,7 +3414,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_824d27d0-6e7e-4d7a-b246-993adba66936.jpg?v=1602846396</image>
       <price_with_vat>2.40</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>24849/ca42</mpn>
+      <mpn>24849/6bda</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3369,7 +3429,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w2013-44_3.jpg?v=1606302374</image>
       <price_with_vat>10.40</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2013-44/9297</mpn>
+      <mpn>w2013-44/72dc</mpn>
       <ean>5203102117644</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3384,7 +3444,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2016-4_3.jpg?v=1606302444</image>
       <price_with_vat>18.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2016-4/7a03</mpn>
+      <mpn>w2016-4/d14a</mpn>
       <ean>5203102112472</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3399,7 +3459,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2016-3_MULTI_70205857-5f2b-4b31-8a2e-e995529ed60f.jpg?v=1606298827</image>
       <price_with_vat>18.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2016-3/e4f0</mpn>
+      <mpn>w2016-3/04a6</mpn>
       <ean>5203102112441</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3414,7 +3474,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_f2eecde4-8a67-455d-8b3d-77640d37968f.jpg?v=1606460188</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-3500/b14d</mpn>
+      <mpn>1-3500/40da</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3429,7 +3489,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_3a99ab46-59c6-4d49-958c-1ffb55196f2c.jpg?v=1606460163</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-3500/f46b</mpn>
+      <mpn>1-3500/9fd7</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3444,7 +3504,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20191204153504_omsa_nuit_292_091_black.jpg?v=1608120178</image>
       <price_with_vat>6.00</price_with_vat>
       <manufacturer>Omsa</manufacturer>
-      <mpn>292/fc8d</mpn>
+      <mpn>292/6bab</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3459,7 +3519,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80679-00_02-12.jpg?v=1602609845</image>
       <price_with_vat>14.90</price_with_vat>
       <manufacturer>Helios</manufacturer>
-      <mpn>80679-00-1/74e4</mpn>
+      <mpn>80679-00-1/5745</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3474,7 +3534,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80678-00_02-16.jpg?v=1602609536</image>
       <price_with_vat>18.00</price_with_vat>
       <manufacturer>Helios</manufacturer>
-      <mpn>80678-00-1/4649</mpn>
+      <mpn>80678-00-1/a3db</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3489,7 +3549,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/PACK_ATTIVA_40_COLLANT.jpg?v=1602228873</image>
       <price_with_vat>4.60</price_with_vat>
       <manufacturer>Omsa</manufacturer>
-      <mpn>269/8e8f</mpn>
+      <mpn>269/e6f3</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3504,7 +3564,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/Screenshot_4.png?v=1602230931</image>
       <price_with_vat>7.50</price_with_vat>
       <manufacturer>Golden Lady</manufacturer>
-      <mpn>135sss/e5ee</mpn>
+      <mpn>135sss/6c26</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3519,7 +3579,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/121fff.jpg?v=1602231931</image>
       <price_with_vat>8.00</price_with_vat>
       <manufacturer>Golden Lady</manufacturer>
-      <mpn>121fff-1/4021</mpn>
+      <mpn>121fff-1/13dc</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3534,7 +3594,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/controlbody40-1350x1200-600x533.jpg?v=1602229309</image>
       <price_with_vat>4.40</price_with_vat>
       <manufacturer>Golden Lady</manufacturer>
-      <mpn>122kkk-1/eb00</mpn>
+      <mpn>122kkk-1/48ef</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3549,7 +3609,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_0fb61d9f-e6c0-4df8-8f8a-fad5d9fa8b84.jpg?v=1602482684</image>
       <price_with_vat>2.50</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-1015/a93a</mpn>
+      <mpn>1-1015/a36d</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3564,7 +3624,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_d1a8408f-157e-4b59-a495-6ca1f32f9012.jpg?v=1602482728</image>
       <price_with_vat>2.50</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-1020/52cb</mpn>
+      <mpn>1-1020/e369</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3579,7 +3639,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_197b96b3-9d74-4908-b623-0a75c91e5b04.jpg?v=1602482754</image>
       <price_with_vat>3.80</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>1-1050/03f5</mpn>
+      <mpn>1-1050/ef20</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3594,7 +3654,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/28vvv-reduxcell_2.jpg?v=1602219216</image>
       <price_with_vat>7.00</price_with_vat>
       <manufacturer>Golden Lady</manufacturer>
-      <mpn>28vvv-1/9b96</mpn>
+      <mpn>28vvv-1/ffe6</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3609,7 +3669,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/PACK_NUDO_20_COLLANT.jpg?v=1602232261</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>Omsa</manufacturer>
-      <mpn>219/0864</mpn>
+      <mpn>219/05bd</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3624,7 +3684,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/PACK_SUPER_15_COLLANT.jpg?v=1602221102</image>
       <price_with_vat>2.50</price_with_vat>
       <manufacturer>Omsa</manufacturer>
-      <mpn>106/f5de</mpn>
+      <mpn>106/190a</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3639,7 +3699,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/pack_super_20_collant_1.jpg?v=1602218009</image>
       <price_with_vat>2.50</price_with_vat>
       <manufacturer>Omsa</manufacturer>
-      <mpn>160/7ce8</mpn>
+      <mpn>160/f9d6</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3654,7 +3714,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/velour-120.jpg?v=1602228411</image>
       <price_with_vat>7.00</price_with_vat>
       <manufacturer>Omsa</manufacturer>
-      <mpn>198/4a02</mpn>
+      <mpn>198/c0fb</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3663,19 +3723,844 @@
       <category>Γυναικεία - Καλσόν</category>
     </product>
     <product>
-      <id>5763108962465</id>
-      <name>Γυναικείο Καλσόν ΜΥ SECRET SILHOUETTE 30 GOLDEN LADY</name>
-      <link>https://sovrakofanela.myshopify.com/products/καλσόν-μυ-secret-silhou-30</link>
-      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/28ttt099a_2.jpg?v=1602231699</image>
+      <id>5767257784481</id>
+      <name>Γυναικείο Τρουακάρ Chic Net MEWE</name>
+      <link>https://sovrakofanela.myshopify.com/products/τρουακάρ-chic-net</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_9a4bfff5-d4fe-4ba4-a704-6a1871fddd06.jpg?v=1602482803</image>
+      <price_with_vat>3.40</price_with_vat>
+      <manufacturer>MeWe</manufacturer>
+      <mpn>1-2300/120e</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>Μαύρο</size>
+      <color/>
+      <category>Γυναικεία - Καλσόν</category>
+    </product>
+    <product>
+      <id>5767272202401</id>
+      <name>Καλσόν Comfort 100den MEWE</name>
+      <link>https://sovrakofanela.myshopify.com/products/καλσόν-comfort-100den</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_b7f3008b-cadd-4a73-a54a-a2ecf310c30c.jpg?v=1602482876</image>
+      <price_with_vat>7.10</price_with_vat>
+      <manufacturer>MeWe</manufacturer>
+      <mpn>1-3100/0aad</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Καλσόν</category>
+    </product>
+    <product>
+      <id>5767321288865</id>
+      <name>Κουτί δώρου με βαμβακερές κάλτσες με σχέδια 4 ζεύγη MEWE</name>
+      <link>https://sovrakofanela.myshopify.com/products/κουτί-δώρου-βαμβακερές-κάλτσες-με-σχέδια</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_5bbafb87-14f5-44ec-933f-2dd9cd63e578.jpg?v=1602482972</image>
+      <price_with_vat>11.10</price_with_vat>
+      <manufacturer>MeWe</manufacturer>
+      <mpn>2-0601/dfe5</mpn>
+      <ean>https://www.oeko-tex.com/v/18.HTR.56848</ean>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>40-42, 43-46</size>
+      <color/>
+      <category>Ανδρικά - Κάλτσες</category>
+    </product>
+    <product>
+      <id>5776116973729</id>
+      <name>Δυάδα ανδρική φανέλα τιράντα Helios</name>
+      <link>https://sovrakofanela.myshopify.com/products/δυάδα-ανδρική-φανέλα-χωρίς-μανίκι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80102-2.jpg?v=1602605578</image>
+      <price_with_vat>9.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80102-2/23f8</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>3(M), 4(L), 5(XL)</size>
+      <color>Λευκό</color>
+      <category>Ανδρικά - Φανέλες</category>
+    </product>
+    <product>
+      <id>5776131948705</id>
+      <name>Δυάδα σλιπ με εξωτερικό λάστιχο Helios</name>
+      <link>https://sovrakofanela.myshopify.com/products/δυάδα-σλιπ-με-εξωτερικό-λάστιχο</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80110-2.jpg?v=1602606019</image>
+      <price_with_vat>9.90</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80110-2/84f3</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>3(M), 4(L), 5(XL)</size>
+      <color>Λευκό</color>
+      <category>Ανδρικά - Σλιπς</category>
+    </product>
+    <product>
+      <id>5776139518113</id>
+      <name>Δυάδα ανδρική φανέλα κλειστός λαιμός Helios</name>
+      <link>https://sovrakofanela.myshopify.com/products/δυάδα-φανέλα-κοντό-μανίκι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80114-1_01-01.jpg?v=1602931141</image>
+      <price_with_vat>13.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80114/8009</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>2(S), 3(M), 4(L), 5(XL)</size>
+      <color>Λευκό</color>
+      <category>Ανδρικά - Φανέλες</category>
+    </product>
+    <product>
+      <id>5776144760993</id>
+      <name>Δυάδα ανδρική φανέλα ανοιχτός λαιμός Helios</name>
+      <link>https://sovrakofanela.myshopify.com/products/δυάδα-ανδρική-φανέλα-κοντό-μανίκι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80117-2.jpg?v=1602606856</image>
+      <price_with_vat>13.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80117-2/d189</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>3(M), 4(L), 5(XL)</size>
+      <color>Λευκό</color>
+      <category>Ανδρικά - Φανέλες</category>
+    </product>
+    <product>
+      <id>5776156131489</id>
+      <name>Γυναικείο Σλιπ Mini HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-σλιπ-μίνι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80349-00.jpg?v=1606309907</image>
+      <price_with_vat>5.85</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80349-00-1/5ec7</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>M, L, XL</size>
+      <color>Λευκό</color>
+      <category>Γυναικεία - Σλιπς</category>
+    </product>
+    <product>
+      <id>5776165961889</id>
+      <name>Γυναικείο Τοπ αθλητική πλάτη HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-τοπ-αθλητική-πλάτη</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80619-00_09-04.jpg?v=1602608852</image>
+      <price_with_vat>12.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80619-00-1/f1a0</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L</size>
+      <color>Μαρίν</color>
+      <category>Γυναικεία - Φανέλες</category>
+    </product>
+    <product>
+      <id>5776172089505</id>
+      <name>Γυναικείο Κορμάκι μακρύ μανίκι με μοτίφ εμπρός HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-κορμάκι-μακρύ-μανίκι-με-μοτίφ-εμπρός</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80637-00.jpg?v=1602608794</image>
+      <price_with_vat>25.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80637-00-1/66c5</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Κορμάκια</category>
+    </product>
+    <product>
+      <id>5776175923361</id>
+      <name>Γυναικείο Κολάν κάπρι HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-κολάν-κάπρι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80650-00_02-03.jpg?v=1602609217</image>
+      <price_with_vat>14.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80650-00-1/e97e</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S-M, L-XL</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Κολάν</category>
+    </product>
+    <product>
+      <id>5776186310817</id>
+      <name>Γυναικείο Κορμάκι λεπτή τιράντα HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/κορμάκι-λεπτή-τιράντα</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80684-00_02-00.jpg?v=1606391037</image>
+      <price_with_vat>15.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80684-00/47e6</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L</size>
+      <color>Λευκό</color>
+      <category>Γυναικεία - Κορμάκια</category>
+    </product>
+    <product>
+      <id>5776203972769</id>
+      <name>Γυναικείο Μπουστάκι φαρδιά τιράντα HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-μπουστάκι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80772-00_02-01.jpg?v=1602611509</image>
+      <price_with_vat>5.90</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80772-00-1/253c</mpn>
+      <ean>5202196898217</ean>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Λευκό, Μαύρο, Μπέζ</color>
+      <category>Γυναικεία - Μπουστάκια</category>
+    </product>
+    <product>
+      <id>5777596448929</id>
+      <name>Γυναικείο Σλίπ Midi Helios</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-σλίπ-midi</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80776-00_02-01.jpg?v=1602654993</image>
       <price_with_vat>5.00</price_with_vat>
-      <manufacturer>Golden Lady</manufacturer>
-      <mpn>28ttt-1/297f</mpn>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80776-00-1/68f6</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>M, L</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Σλιπς</category>
+    </product>
+    <product>
+      <id>5777602805921</id>
+      <name>Γυναικείο Μπουστάκι τιράντα HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/μπουστάκι-τιράντα</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80781-00_13-01.jpg?v=1602655333</image>
+      <price_with_vat>6.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80781-00-1/2ee5</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, L</size>
+      <color>Μαύρο, Γκρί</color>
+      <category>Γυναικεία - Μπουστάκια</category>
+    </product>
+    <product>
+      <id>5777605853345</id>
+      <name>Φανέλα κοντό μανίκι λαιμός V Helios</name>
+      <link>https://sovrakofanela.myshopify.com/products/φανέλα-κοντό-μανίκι-λαιμός-v</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80918-00_01-01.jpg?v=1602655550</image>
+      <price_with_vat>9.50</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80918/8b8b</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>M, L, XL</size>
+      <color>Λευκό</color>
+      <category>Ανδρικά - Φανέλες</category>
+    </product>
+    <product>
+      <id>5777615356065</id>
+      <name>Γυναικείο Μπουστάκι seamless HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/μπουστάκι-seamless</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/81500-00_01-01.jpg?v=1606390346</image>
+      <price_with_vat>5.90</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>81500-00-1/a2f7</mpn>
+      <ean>5202196320992</ean>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S-M, L-XL</size>
+      <color>Μπέζ</color>
+      <category>Γυναικεία - Μπουστάκια</category>
+    </product>
+    <product>
+      <id>5777618731169</id>
+      <name>Γυναικείο Τοπ σπαγγέτι 2 τεμάχια HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/δυάδα-τοπ-σπαγγέτι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/82670-00_029-05.jpg?v=1602656092</image>
+      <price_with_vat>18.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>/1076</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Μπέζ</color>
+      <category>Γυναικεία - Φανέλες</category>
+    </product>
+    <product>
+      <id>5777621221537</id>
+      <name>Γυναικείο κορμάκι λεπτή τιράντα 2 τεμάχια HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/δυάδα-κορμάκι-λεπτή-τιράντα</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/82684-00_021-01.jpg?v=1603018134</image>
+      <price_with_vat>25.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>82684-00-1/4c8e</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>M, L, XL</size>
+      <color>Λευκό</color>
+      <category>Γυναικεία - Κορμάκια</category>
+    </product>
+    <product>
+      <id>5777627971745</id>
+      <name>Γυναικείο Σλίπ Mini 3 τεμάχια HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικεία-τριάδα-σλιπ-mini</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/83718-00.jpg?v=1606309732</image>
+      <price_with_vat>13.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>83718-00-1/4e84</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
       <size>S, M, L, XL</size>
+      <color>Λευκό, Μαύρο, Μπέζ</color>
+      <category>Γυναικεία - Σλιπς</category>
+    </product>
+    <product>
+      <id>5777632329889</id>
+      <name>Γυναικείο Σλίπ σλιπ 3/4 3 τεμάχια HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικεία-τριάδα-σλιπ-3-4</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/83721-00_012-01.jpg?v=1602656977</image>
+      <price_with_vat>14.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>83721-00-1/fcb5</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Λευκό</color>
+      <category>Γυναικεία - Σλιπς</category>
+    </product>
+    <product>
+      <id>5777636753569</id>
+      <name>Γυναικείο μπόξερ χαμηλόμεσο 3 τεμάχια HELIOS</name>
+      <link>https://sovrakofanela.myshopify.com/products/τριάδα-γυναικείο-μπόξερ-χαμηλόμεσο</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/83722-00_214-01.jpg?v=1606309429</image>
+      <price_with_vat>15.00</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>83722-00-1/ba57</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Σλιπς</category>
+    </product>
+    <product>
+      <id>5781538898081</id>
+      <name>Γυναικείο Φανελάκι με φαρδιά τιράντα Modal σε 3 χρώματα</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-φανελάκι-με-φαρδιά-τiράντα</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/shopifyphoto-squre.jpg?v=1602752596</image>
+      <price_with_vat>4.00</price_with_vat>
+      <manufacturer>Berrak</manufacturer>
+      <mpn>8080F-1/b46c</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Μαύρο, Μπέζ, Λευκό</color>
+      <category>Γυναικεία - Φανέλες</category>
+    </product>
+    <product>
+      <id>5781557543073</id>
+      <name>Γυναικείο Φανελάκι με λεπτή τιράντα Modal σε 3 χρώματα</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-φανελάκι-με-λεπτή-τiράντα</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/shopifyphoto-squre_b1a759c2-b10b-4b46-9556-353a8a118226.jpg?v=1602753059</image>
+      <price_with_vat>4.00</price_with_vat>
+      <manufacturer>Berrak</manufacturer>
+      <mpn>8081/48f5</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Λευκό, Μάυρο, Μπέζ</color>
+      <category>Γυναικεία - Φανέλες</category>
+    </product>
+    <product>
+      <id>5782074622113</id>
+      <name>Παιδικό βαμβακερό φανελάκι Μπλέ UNISEX NINA CLUB</name>
+      <link>https://sovrakofanela.myshopify.com/products/παιδικό-φανελάκι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3_84df5dce-ac10-48ed-98fb-24fcd67bdbea.jpg?v=1606469775</image>
+      <price_with_vat>3.30</price_with_vat>
+      <manufacturer>NinaClub</manufacturer>
+      <mpn>55/3273</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>6 ετών, 8 ετών, 10 ετών, 12 ετών, 14 ετών</size>
+      <color>Μπλέ</color>
+      <category>Παιδικά - Φανέλες</category>
+    </product>
+    <product>
+      <id>5784312152225</id>
+      <name>Παιδικά βαμβακερά Σλίπ 5 τεμάχια</name>
+      <link>https://sovrakofanela.myshopify.com/products/παιδικό-σλίπς-biyo-kids</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_ab1b4e37-f348-41d7-94ce-0af230f69916.jpg?v=1602831166</image>
+      <price_with_vat>8.00</price_with_vat>
+      <manufacturer>BiyoKids</manufacturer>
+      <mpn>2125-5/2b52</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>2 ετών, 4 ετών, 6 ετών, 8 ετών</size>
+      <color>Λευκό-Σιέλ-Μπλέ-Γκρί-Μπέζ</color>
+      <category>Παιδικά - Σλιπς</category>
+    </product>
+    <product>
+      <id>5784334893217</id>
+      <name>Παιδικό βαμβακερό Μποξεράκι</name>
+      <link>https://sovrakofanela.myshopify.com/products/παιδικό-μποξεράκι-biyo-kids</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_87168932-ef42-4513-b743-6faf1dd91e5f.jpg?v=1602831947</image>
+      <price_with_vat>2.00</price_with_vat>
+      <manufacturer>BiyoKids</manufacturer>
+      <mpn>2153-1/848f</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>4 ετών, 6 ετών, 8 ετών</size>
+      <color>Λευκό, Γκρί, Μπλέ, Σιέλ, Μπέζ</color>
+      <category>Παιδικά - Μποξεράκια</category>
+    </product>
+    <product>
+      <id>5784470323361</id>
+      <name>Παιδικό βαμβακερό Σλίπ</name>
+      <link>https://sovrakofanela.myshopify.com/products/παιδικό-σλίπ-baby-donkey</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_b8a9c98d-f0d1-4617-b1b7-c9196c98953b.jpg?v=1602835510</image>
+      <price_with_vat>2.00</price_with_vat>
+      <manufacturer>Donella</manufacturer>
+      <mpn>41640ES-1/a8aa</mpn>
+      <ean>8697840605087</ean>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>2-3, 4-5, 6-7</size>
+      <color>Λευκό, Ρόζ, Ρόζ Ανοιχτό, Κίτρινο, Κίτρινο Ανοιχτό</color>
+      <category>Παιδικά - Σλιπς</category>
+    </product>
+    <product>
+      <id>5784548049057</id>
+      <name>Παιδικό Σλιπ 95% Βαμβάκι</name>
+      <link>https://sovrakofanela.myshopify.com/products/παιδικά-κυλοτάκια-donella-pastels</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_e595ee24-3f41-4802-a50e-7fc66c80e53c.jpg?v=1603027883</image>
+      <price_with_vat>2.00</price_with_vat>
+      <manufacturer>BiyoKids</manufacturer>
+      <mpn>4171BC-1/a6eb</mpn>
+      <ean>8697840548308</ean>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>8-9, 10-11</size>
+      <color>Σιέλ, Κίτρινο, Βεραμάν, Ρόζ, Μόβ</color>
+      <category>Παιδικά - Σλιπς</category>
+    </product>
+    <product>
+      <id>5784570495137</id>
+      <name>Γυναικείο Σλίπ βαμβακερό με σχέδιο DONELLA</name>
+      <link>https://sovrakofanela.myshopify.com/products/εφηβικό-σλίπ-paris-donella</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/39891b.jpg?v=1603113616</image>
+      <price_with_vat>2.50</price_with_vat>
+      <manufacturer>Donella</manufacturer>
+      <mpn>39891PV-1/cfda</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>L</size>
+      <color>Ρόζ, Σομόν, Φυστικί, Σάπιο Μήλο, Γκρί</color>
+      <category>Παιδικά - Σλιπς</category>
+    </product>
+    <product>
+      <id>5784588681377</id>
+      <name>Γυναικείο Σλίπ Hipster σχέδια</name>
+      <link>https://sovrakofanela.myshopify.com/products/παιδικά-σλίπ-hipster-cats</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/4_c601db7b-45d8-4faf-957c-5798b1e8493a.jpg?v=1603028278</image>
+      <price_with_vat>2.30</price_with_vat>
+      <manufacturer>LineaDoro</manufacturer>
+      <mpn>3971610CT-1/2f44</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>M, L, XL</size>
+      <color>Γκρί, Λευκό, Μαύρο, Ρόζ Ανοιχτό, Ρόζ</color>
+      <category>Γυναικεία - Σλιπς</category>
+    </product>
+    <product>
+      <id>5784609423521</id>
+      <name>Εφηβικό βαμβακερό Σουτιέν Ρόζ Αρκουδάκι SO COOL</name>
+      <link>https://sovrakofanela.myshopify.com/products/εφηβικό-σουτιέν-so-cool-biyo</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/4_08874e65-0414-4de1-bf85-aca6c7584e3b.jpg?v=1606474693</image>
+      <price_with_vat>8.00</price_with_vat>
+      <manufacturer>BiyoKids</manufacturer>
+      <mpn>BY156/e0e1</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>14-16 (ετών)</size>
+      <color>Ρόζ Αρκουδάκι</color>
+      <category>Παιδικά - Σουτιέν</category>
+    </product>
+    <product>
+      <id>5784631476385</id>
+      <name>Εφηβικό βαμβακερό Μπουστάκι Ρόζ STRIPES</name>
+      <link>https://sovrakofanela.myshopify.com/products/εφηβικό-μπουστάκι-stripes-donella</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_dbf1105c-8766-4c6e-ad8a-b8feb507bf4e.jpg?v=1606474142</image>
+      <price_with_vat>3.20</price_with_vat>
+      <manufacturer>Donella</manufacturer>
+      <mpn>59468/e405</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>14-15</size>
+      <color>Ρόζ</color>
+      <category>Παιδικά - Μπουστάκια</category>
+    </product>
+    <product>
+      <id>5784676597921</id>
+      <name>Εφηβικό βαμβακερό Μπουστάκι Βερυκοκί LOVELY CAT</name>
+      <link>https://sovrakofanela.myshopify.com/products/εφηβικό-μπουστάκι-lovely-cat-donella</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_ca44a8ba-4758-4f7b-9c13-c2e182f72ed5.jpg?v=1606473839</image>
+      <price_with_vat>3.20</price_with_vat>
+      <manufacturer>Donella</manufacturer>
+      <mpn>5971/a5cc</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>12-13</size>
+      <color>Βερυκοκί</color>
+      <category>Παιδικά - Μπουστάκια</category>
+    </product>
+    <product>
+      <id>5784813633697</id>
+      <name>Εφηβικό αθλητικό βαμβακερό Μπέζ μπουστάκι</name>
+      <link>https://sovrakofanela.myshopify.com/products/εφηβικό-αθλητικό-μπουστάκι-donella</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_2427dc27-71ac-4d95-a087-a61d865c26bf.jpg?v=1606473379</image>
+      <price_with_vat>4.00</price_with_vat>
+      <manufacturer>Donella</manufacturer>
+      <mpn>2372WR-1/7898</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M</size>
+      <color>Μπέζ</color>
+      <category>Παιδικά - Μπουστάκια</category>
+    </product>
+    <product>
+      <id>5784827887777</id>
+      <name>Γυναικείο Σλίπ Βαμβακερό με σχέδιο Donella</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-σλίπ-donella-butterflie</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_9adefda9-88de-4804-b817-fb3c3f50a180.jpg?v=1602845267</image>
+      <price_with_vat>2.80</price_with_vat>
+      <manufacturer>Donella</manufacturer>
+      <mpn>/7429</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Μόβ, Ρόζ</color>
+      <category>Γυναικεία - Σλιπς</category>
+    </product>
+    <product>
+      <id>5784880447649</id>
+      <name>Γυναικείο Σλίπ Δαντέλα DONELLA</name>
+      <link>https://sovrakofanela.myshopify.com/products/σλίπ-δαντέλα-donella</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_546cdba7-62ba-444e-ab9b-c1b83fa96fce.jpg?v=1602847220</image>
+      <price_with_vat>2.80</price_with_vat>
+      <manufacturer>Donella</manufacturer>
+      <mpn>19572/8603</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>L, S, XL</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Σλιπς</category>
+    </product>
+    <product>
+      <id>5787089764513</id>
+      <name>Γυναικείο Σουτίεν Plus Size Soft BASICS NORDDIVA</name>
+      <link>https://sovrakofanela.myshopify.com/products/σουτίεν-plus-size-basics-norddiva</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5211-skin-_n.jpg?v=1602915679</image>
+      <price_with_vat>14.00</price_with_vat>
+      <manufacturer>Norddiva</manufacturer>
+      <mpn>5211/be36</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>80D, 85C</size>
+      <color>Μπέζ, Λευκό</color>
+      <category>Γυναικεία - Σουτίεν</category>
+    </product>
+    <product>
+      <id>5787097563297</id>
+      <name>Γυναικείο σουτίεν double push up Basics NORDDIVA</name>
+      <link>https://sovrakofanela.myshopify.com/products/σουτίεν-double-push-up-norddiva</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/8023-skin-_n.jpg?v=1606386969</image>
+      <price_with_vat>12.00</price_with_vat>
+      <manufacturer>Norddiva</manufacturer>
+      <mpn>8023/2c60</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>75B, 80B, 85B</size>
+      <color>Μπέζ, Μαύρο</color>
+      <category>Παιδικά - Σουτιέν</category>
+    </product>
+    <product>
+      <id>5787103658145</id>
+      <name>Γυναικείο Σουτιέν SOFT CUP NORDDIVA</name>
+      <link>https://sovrakofanela.myshopify.com/products/σουτιέν-soft-cup-norddiva</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5036-black-_n.jpg?v=1602916260</image>
+      <price_with_vat>12.00</price_with_vat>
+      <manufacturer>Norddiva</manufacturer>
+      <mpn>5036/7a6b</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>80C, 85C, 90C</size>
       <color>Μαύρο, Μπέζ</color>
-      <category>Γυναικεία - Καλσόν</category>
+      <category>Γυναικεία - Σουτίεν</category>
+    </product>
+    <product>
+      <id>5787108999329</id>
+      <name>Γυναικείο Σουτιέν STRAPLESS PUSH UP NORDDIVA</name>
+      <link>https://sovrakofanela.myshopify.com/products/σουτιέν-strapless-push-up-norddiva</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5051-white-_n.jpg?v=1602916456</image>
+      <price_with_vat>10.00</price_with_vat>
+      <manufacturer>Norddiva</manufacturer>
+      <mpn>5051/968c</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>80B, 75B</size>
+      <color>Λευκό</color>
+      <category>Γυναικεία - Σουτίεν</category>
+    </product>
+    <product>
+      <id>5787127742625</id>
+      <name>Γυναικείο νυχτικό σατέν MOON GIRL</name>
+      <link>https://sovrakofanela.myshopify.com/products/νυχτικό-σατέμ-moongirl</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5099.jpg?v=1602917146</image>
+      <price_with_vat>9.60</price_with_vat>
+      <manufacturer>MoonGirl</manufacturer>
+      <mpn>MG5099/a1c6</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>M, L, XL</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Νυχτικά</category>
+    </product>
+    <product>
+      <id>5787133870241</id>
+      <name>Γυναικείο Σουτιέν μαλακό cup Norddiva</name>
+      <link>https://sovrakofanela.myshopify.com/products/σουτιέν-norddiva</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/8080.jpg?v=1605706636</image>
+      <price_with_vat>14.00</price_with_vat>
+      <manufacturer>Norddiva</manufacturer>
+      <mpn>8080/7b3d</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>80C, 90C</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Σουτίεν</category>
+    </product>
+    <product>
+      <id>5787157659809</id>
+      <name>Παιδική βαμβακερή Πυτζάμα με σχέδιο</name>
+      <link>https://sovrakofanela.myshopify.com/products/παιδική-πυτζάμα-santoro</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/63029-k-_3.jpg?v=1602918100</image>
+      <price_with_vat>11.20</price_with_vat>
+      <manufacturer>Sexen</manufacturer>
+      <mpn>63029b-1/d1f4</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>4-5 ετών, 8-9 ετών, 10-11 ετών, 12-13 ετών, 14-15 ετών</size>
+      <color>Εκρού</color>
+      <category>Παιδικά - Πυτζάμες</category>
+    </product>
+    <product>
+      <id>5787178631329</id>
+      <name>Πιτζαμα Γυναικεια Sleeping Cat Sevim</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικεία-πυτζάμα-sleeping-cat-sevim</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/s23haz2776-12213.jpg?v=1605705678</image>
+      <price_with_vat>25.00</price_with_vat>
+      <manufacturer>Sevim</manufacturer>
+      <mpn>12213/1cfd</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>M</size>
+      <color>Μπλέ</color>
+      <category>Γυναικεία - Πυτζάμες</category>
+    </product>
+    <product>
+      <id>5787332542625</id>
+      <name>Παιδικό βαμβακερό Φανελάκι σε διάφορα σχέδια</name>
+      <link>https://sovrakofanela.myshopify.com/products/παιδικό-φανελάκι-trendy</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/dsc_0163_6_1.jpg?v=1603019305</image>
+      <price_with_vat>2.60</price_with_vat>
+      <manufacturer>Trendy</manufacturer>
+      <mpn>fan-4/b4b2</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>4 ετών, 8 ετών</size>
+      <color>Λευκό Car, Λευκό 5, Λευκό Move, Λευκό Zoo, Λευκό Cool Boy</color>
+      <category>Παιδικά - Φανέλες</category>
+    </product>
+    <product>
+      <id>5787419607201</id>
+      <name>Δυάδα ανδρική φανέλα κλειστός λαιμός Helios</name>
+      <link>https://sovrakofanela.myshopify.com/products/copy-of-δυάδα-ανδρική-φανέλα-κοντό-μανίκι-ανοιχτός-λαιμός-helios</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80114-2_02-01_9f65fbff-7f45-4fcb-945e-327739d71f98.jpg?v=1602930906</image>
+      <price_with_vat>15.50</price_with_vat>
+      <manufacturer>Helios</manufacturer>
+      <mpn>80114/471e</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>2(S), 3(M), 4(L), 5(XL)</size>
+      <color>Μαύρο</color>
+      <category>Ανδρικά - Φανέλες</category>
+    </product>
+    <product>
+      <id>5789425696929</id>
+      <name>Παιδικό βαμβάκερό Σλίπ</name>
+      <link>https://sovrakofanela.myshopify.com/products/παιδικό-σλίπ-95-βαμβάκι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_da04327d-4b50-42be-971f-521ce04de61d.jpg?v=1603026624</image>
+      <price_with_vat>1.60</price_with_vat>
+      <manufacturer>BiyoKids</manufacturer>
+      <mpn>2125-1/6705</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>2 ετών, 4 ετών, 6 ετών, 8 ετών</size>
+      <color>Λευκό, Σιέλ, Γκρί, Μπλέ, Μπέζ</color>
+      <category>Παιδικά - Σλιπς</category>
+    </product>
+    <product>
+      <id>5789429235873</id>
+      <name>Παιδικά βαμβακερά Μποξεράκια 5 τεμάχια</name>
+      <link>https://sovrakofanela.myshopify.com/products/5-παιδικά-μποξεράκια-95-βαμβάκι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_1ee36ad0-4f1a-49e1-be2d-f2ec43a7ee7a.jpg?v=1603026587</image>
+      <price_with_vat>10.00</price_with_vat>
+      <manufacturer>BiyoKids</manufacturer>
+      <mpn>2153-5/78da</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>4 ετών, 6 ετών, 8 ετών</size>
+      <color>Λευκό-Γκρί-Μπλέ-Σιέλ-Μπέζ</color>
+      <category>Παιδικά - Μποξεράκια</category>
+    </product>
+    <product>
+      <id>5789444472993</id>
+      <name>Παιδικά βαμβακερά Σλίπ 5 τεμάχια</name>
+      <link>https://sovrakofanela.myshopify.com/products/5-παιδικά-σλίπ-95-βαμβάκι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_a9c67375-ae45-4a05-9a76-2d6152a025e6.jpg?v=1603027164</image>
+      <price_with_vat>10.00</price_with_vat>
+      <manufacturer>Donella</manufacturer>
+      <mpn>41640ES-5/4de9</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>2-3, 4-5, 6-7</size>
+      <color>1</color>
+      <category>Παιδικά - Σλιπς</category>
+    </product>
+    <product>
+      <id>5789449846945</id>
+      <name>Παιδικά βαμβακερά Σλιπς 5 τεμάχια</name>
+      <link>https://sovrakofanela.myshopify.com/products/5-παιδικά-σλιπς-95-βαμβάκι</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_6e1e7b5a-701d-4dbb-8f58-632bcc7230fe.jpg?v=1603027546</image>
+      <price_with_vat>10.00</price_with_vat>
+      <manufacturer>BiyoKids</manufacturer>
+      <mpn>4171BC-5/ad5f</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>8-9, 10-11</size>
+      <color>MULTICOLOR</color>
+      <category>Παιδικά - Σλιπς</category>
+    </product>
+    <product>
+      <id>5791934513313</id>
+      <name>Παιδικό Σετ Σκούφος-Γάντια-Κασκόλ</name>
+      <link>https://sovrakofanela.myshopify.com/products/σετ-σκούφος-γάντια-κασκόλ-1</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/img_1569.jpg?v=1606476523</image>
+      <price_with_vat>8.40</price_with_vat>
+      <manufacturer>Kitty</manufacturer>
+      <mpn>k8922/80c8</mpn>
+      <ean>8680797033355</ean>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>Λευκό</size>
+      <color>1-4 ετών</color>
+      <category>Βρεφικά - Σετ</category>
+    </product>
+    <product>
+      <id>5802875093153</id>
+      <name>Γυναικείο Σλίπ Bamboo 2 τεμαχίων (Μπέζ-Μπέζ) WALK</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-σλίπ-bamboo-walk</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/w2012_1919_2.jpg?v=1606301223</image>
+      <price_with_vat>10.60</price_with_vat>
+      <manufacturer>Walk</manufacturer>
+      <mpn>w2012/fc27</mpn>
+      <ean>5203102995464</ean>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Μπέζ-Μπέζ</color>
+      <category>Γυναικεία - Σλιπς</category>
+    </product>
+    <product>
+      <id>5802885644449</id>
+      <name>Γυναικείο ΤΟΠ με λεπτή τιράντα Bamboo WALK</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-τοπ-με-λεπτή-τιράντα-bamboo-walk</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2201_01_96b2fafb-77b8-440e-abe0-c1e2a9f9490a.jpg?v=1606381263</image>
+      <price_with_vat>10.00</price_with_vat>
+      <manufacturer>Walk</manufacturer>
+      <mpn>w2201/717d</mpn>
+      <ean>5203102440896</ean>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Λευκό</color>
+      <category>Γυναικεία - Φανέλες</category>
+    </product>
+    <product>
+      <id>5805571178657</id>
+      <name>Γυναικείο Μακρύ Κολάν Βαμβακερό Μαύρο WALK</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-μακρύ-κολάν-βαμβακερό-walk</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W906_02_93e561e5-ce2d-49bc-b51c-e723ffcb2346.jpg?v=1606467462</image>
+      <price_with_vat>17.00</price_with_vat>
+      <manufacturer>Walk</manufacturer>
+      <mpn>w906/d263</mpn>
+      <ean/>
+      <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Κολάν</category>
+    </product>
+    <product>
+      <id>5805624066209</id>
+      <name>Γυναικείο Τ-Shirt ΚΜ λεμόκοψη Bamboo Γκρί Σκούρο WALK</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικεία-φανέλα-με-κοντό-μανίκι-bamboo-walk</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2203_10.jpg?v=1606380880</image>
+      <price_with_vat>11.00</price_with_vat>
+      <manufacturer>Walk</manufacturer>
+      <mpn>w2205/c38b</mpn>
+      <ean>5203102497418</ean>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L, XL</size>
+      <color>Γκρί Σκούρο</color>
+      <category>Γυναικεία - Φανέλες</category>
     </product>
     <product>
       <id>5805869498529</id>
@@ -3684,7 +4569,37 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W909_02_207bba8c-ca19-4ff1-ba5f-47540249b988.jpg?v=1606466914</image>
       <price_with_vat>25.40</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w909/010e</mpn>
+      <mpn>w909/eed5</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Κολάν</category>
+    </product>
+    <product>
+      <id>5805880246433</id>
+      <name>Γυναικείο Κολάν Συμπίεσης Lazer Cut WALK (NEW ARRIVAL)</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-κολάν-συμπίεσης-walk</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W912_2.jpg?v=1604657649</image>
+      <price_with_vat>29.70</price_with_vat>
+      <manufacturer>Walk</manufacturer>
+      <mpn>w912/d9c4</mpn>
+      <ean/>
+      <instock>Y</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>S, M, L</size>
+      <color>Μαύρο</color>
+      <category>Γυναικεία - Κολάν</category>
+    </product>
+    <product>
+      <id>5805891453089</id>
+      <name>Γυναικείο Κολάν Συμπίεσης Μακρύ WALK (NEW ARRIVAL)</name>
+      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-κολάν-συμπίεσης-μακρύ-walk</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W913_2.jpg?v=1604657759</image>
+      <price_with_vat>29.70</price_with_vat>
+      <manufacturer>Walk</manufacturer>
+      <mpn>w913/7814</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3699,41 +4614,11 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W914_02.jpg?v=1604657589</image>
       <price_with_vat>23.70</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w914/8960</mpn>
+      <mpn>w914/783d</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
       <size>S, M, L, XL</size>
-      <color>Μαύρο</color>
-      <category>Γυναικεία - Κολάν</category>
-    </product>
-    <product>
-      <id>5776175923361</id>
-      <name>Γυναικείο Κολάν κάπρι HELIOS</name>
-      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-κολάν-κάπρι</link>
-      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80650-00_02-03.jpg?v=1602609217</image>
-      <price_with_vat>14.00</price_with_vat>
-      <manufacturer>Helios</manufacturer>
-      <mpn>80650-00-1/4f95</mpn>
-      <ean/>
-      <instock>Y</instock>
-      <availability>Παράδοση 1 - 3 ημέρες</availability>
-      <size>S-M, L-XL</size>
-      <color>Μαύρο</color>
-      <category>Γυναικεία - Κολάν</category>
-    </product>
-    <product>
-      <id>5805891453089</id>
-      <name>Γυναικείο Κολάν Συμπίεσης Μακρύ WALK (NEW ARRIVAL)</name>
-      <link>https://sovrakofanela.myshopify.com/products/γυναικείο-κολάν-συμπίεσης-μακρύ-walk</link>
-      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W913_2.jpg?v=1604657759</image>
-      <price_with_vat>29.70</price_with_vat>
-      <manufacturer>Walk</manufacturer>
-      <mpn>w913/925a</mpn>
-      <ean/>
-      <instock>Y</instock>
-      <availability>Παράδοση 1 - 3 ημέρες</availability>
-      <size>S, M, L</size>
       <color>Μαύρο</color>
       <category>Γυναικεία - Κολάν</category>
     </product>
@@ -3744,7 +4629,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/648ae6c9-dcb6-40ad-b6a2-b1ebd14dad3d_8E627E8_Golden_Lady_Saltallegro_Tonic_50_bambina_in_microfibra.jpg?v=1603697211</image>
       <price_with_vat>3.00</price_with_vat>
       <manufacturer>Golden Lady</manufacturer>
-      <mpn>14w-1/9872</mpn>
+      <mpn>14w-1/9b3e</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3759,7 +4644,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3-708-paidikes-kaltses-koritsi.jpg?v=1603700114</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>3-0708/9749</mpn>
+      <mpn>3-0708/4939</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3774,7 +4659,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3-0709_-600x733.jpg?v=1603700369</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>3-0709/2d6a</mpn>
+      <mpn>3-0709/c7e1</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3789,7 +4674,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_a6214f57-9755-42c6-9287-6d1991695285.jpg?v=1603701131</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>3-0711-1/04d3</mpn>
+      <mpn>3-0711-1/9922</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3804,7 +4689,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3-0711-mewe-kaltses-me-sxedio.jpg?v=1603701163</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>3-0711-2/0b1a</mpn>
+      <mpn>3-0711-2/c619</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3819,7 +4704,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3-1500-mplegkrigalazio.jpg?v=1603701442</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>3-1500-1/6a83</mpn>
+      <mpn>3-1500-1/8479</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3834,7 +4719,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3-1500-fou3grimov-500x500.jpg?v=1603701476</image>
       <price_with_vat>4.70</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>3-1500-1/892d</mpn>
+      <mpn>3-1500-1/7b23</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3849,7 +4734,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3-3600-mpleasprogkri-600x733.jpg?v=1603701674</image>
       <price_with_vat>5.90</price_with_vat>
       <manufacturer>MeWe</manufacturer>
-      <mpn>3-3600/1263</mpn>
+      <mpn>3-3600/c94a</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3864,7 +4749,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122042537.jpg?v=1606307368</image>
       <price_with_vat>6.80</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>basic-midi-women/e6e1</mpn>
+      <mpn>basic-midi-women/3c2f</mpn>
       <ean>7610604100049</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3879,7 +4764,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122162303.jpg?v=1606305670</image>
       <price_with_vat>12.60</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>weekend-tanga-women/c921</mpn>
+      <mpn>weekend-tanga-women/c538</mpn>
       <ean>7613108292180</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3894,7 +4779,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122162315.jpg?v=1606305047</image>
       <price_with_vat>12.60</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>weekend-tai-women-1/b00f</mpn>
+      <mpn>weekend-tai-women-1/8114</mpn>
       <ean>7613108292180</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3909,7 +4794,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122123880.jpg?v=1606385052</image>
       <price_with_vat>24.00</price_with_vat>
       <manufacturer>Triumph</manufacturer>
-      <mpn>pushup-lovely-micro-4/84fc</mpn>
+      <mpn>pushup-lovely-micro-4/0e83</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3924,7 +4809,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122123918.jpg?v=1606385359</image>
       <price_with_vat>17.50</price_with_vat>
       <manufacturer>Triumph</manufacturer>
-      <mpn>pushup-lovely-micro-padded-1/32fc</mpn>
+      <mpn>pushup-lovely-micro-padded-1/480e</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3939,7 +4824,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122170545_2.jpg?v=1606384727</image>
       <price_with_vat>33.90</price_with_vat>
       <manufacturer>Triumph</manufacturer>
-      <mpn>fitsmart-bra-1/2241</mpn>
+      <mpn>fitsmart-bra-1/9829</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3954,7 +4839,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122050400.jpg?v=1604654303</image>
       <price_with_vat>33.90</price_with_vat>
       <manufacturer>Triumph</manufacturer>
-      <mpn>fitsmart-pushup-1/53dd</mpn>
+      <mpn>fitsmart-pushup-1/b0f1</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3969,7 +4854,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200605140404_triumph_claudette_200w_10166801_0004_black.jpg?v=1604752012</image>
       <price_with_vat>14.40</price_with_vat>
       <manufacturer>Triumph</manufacturer>
-      <mpn>claudette-3/2f8a</mpn>
+      <mpn>claudette-3/1790</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3984,7 +4869,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20190328103250_dorina_elegant_curves_d17165a_beige.jpg?v=1606388704</image>
       <price_with_vat>27.10</price_with_vat>
       <manufacturer>Dorina</manufacturer>
-      <mpn>d17165a/0806</mpn>
+      <mpn>d17165a/cdca</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -3999,7 +4884,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20190328110127_dorina_d00800n_v00.jpg?v=1606388143</image>
       <price_with_vat>27.10</price_with_vat>
       <manufacturer>Dorina</manufacturer>
-      <mpn>d00800n/a66d</mpn>
+      <mpn>d00800n/e914</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4014,7 +4899,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/d17195a-v00_2-huge.jpg?v=1606389268</image>
       <price_with_vat>21.60</price_with_vat>
       <manufacturer>Dorina</manufacturer>
-      <mpn>d17195a/0c40</mpn>
+      <mpn>d17195a/323d</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4029,7 +4914,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200309160915_dorina_michelle_2_d17192a_b60_beige.jpg?v=1606389579</image>
       <price_with_vat>19.10</price_with_vat>
       <manufacturer>Dorina</manufacturer>
-      <mpn>d17192a/4ebc</mpn>
+      <mpn>d17192a/039f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4044,7 +4929,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-61755_018-01.jpg?v=1606472151</image>
       <price_with_vat>20.70</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>61755/6c47</mpn>
+      <mpn>61755/a56e</mpn>
       <ean>5206821736202</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4059,7 +4944,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-61739_103-01.jpg?v=1605783883</image>
       <price_with_vat>15.90</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>61739/8607</mpn>
+      <mpn>61739/2d9a</mpn>
       <ean>5206821771364</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4074,7 +4959,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-92103_045-01.jpg?v=1606382442</image>
       <price_with_vat>11.00</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>92103/480b</mpn>
+      <mpn>92103/a0ea</mpn>
       <ean>5206821269441</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4089,7 +4974,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-92201_045-01.jpg?v=1606382831</image>
       <price_with_vat>10.00</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>92201/2e1f</mpn>
+      <mpn>92201/c50e</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4104,7 +4989,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/IMG_20201112_124044_burned-1-600x1048.jpg?v=1605684791</image>
       <price_with_vat>8.70</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>41965/3d95</mpn>
+      <mpn>41965/8053</mpn>
       <ean>5206821831518</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4119,7 +5004,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200730155420_nina_club_147_travelling_is_fun_red.jpg?v=1606472009</image>
       <price_with_vat>8.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>147/a748</mpn>
+      <mpn>147/05c4</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4129,12 +5014,12 @@
     </product>
     <product>
       <id>5890316599457</id>
-      <name>Παιδική πυτζάμα βαμβακερή NINA CLUB</name>
+      <name>Παιδική πυτζάμα βαμβακερή Σκούρο Μόβ NINA CLUB</name>
       <link>https://sovrakofanela.myshopify.com/products/παιδική-πυτζάμα-βαμβακερή-nina-club</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_5971.jpg?v=1606475813</image>
       <price_with_vat>8.20</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>244/f19c</mpn>
+      <mpn>244/3786</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4149,7 +5034,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_5430.jpg?v=1606471754</image>
       <price_with_vat>8.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>347/e1b8</mpn>
+      <mpn>347/a2f0</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4159,12 +5044,12 @@
     </product>
     <product>
       <id>5890345992353</id>
-      <name>Παιδική Πυτζάμα βαμβακερή NINA CLUB</name>
+      <name>Παιδική Πυτζάμα βαμβακερή Σιέλ NINA CLUB</name>
       <link>https://sovrakofanela.myshopify.com/products/βρεφική-πυτζάμα-βαμβακερή-nina-club</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200921155418_nina_club_pitzama_le_cirque_132_light_blue.jpg?v=1606471197</image>
       <price_with_vat>8.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>132/2829</mpn>
+      <mpn>132/af38</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4174,12 +5059,12 @@
     </product>
     <product>
       <id>5890362409121</id>
-      <name>Παιδική πυτζάμα βαμβακερή NINA CLUB</name>
+      <name>Παιδική πυτζάμα βαμβακερή Πράσινο NINA CLUB</name>
       <link>https://sovrakofanela.myshopify.com/products/παιδική-πυτζάμα-βαμβακερή-nina-club-1</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_5652_46125f44-9b10-45c5-a193-1394ea784733.jpg?v=1605783725</image>
       <price_with_vat>10.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>512/0678</mpn>
+      <mpn>512/5407</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4189,12 +5074,12 @@
     </product>
     <product>
       <id>5890377253025</id>
-      <name>Παιδική πυτζάμα βαμβακερή NINA CLUB</name>
+      <name>Παιδική πυτζάμα βαμβακερή Μπλέ NINA CLUB</name>
       <link>https://sovrakofanela.myshopify.com/products/παιδική-πυτζάμα-βαμβακερή-nina-club-2</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_5462.jpg?v=1606470783</image>
       <price_with_vat>8.90</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>700/cb14</mpn>
+      <mpn>700/91ec</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4209,7 +5094,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/img_212371_4.jpg?v=1605700208</image>
       <price_with_vat>4.00</price_with_vat>
       <manufacturer>Sexen</manufacturer>
-      <mpn>4078/d7bb</mpn>
+      <mpn>4078/986f</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4224,7 +5109,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/img_212423_2.jpg?v=1605700422</image>
       <price_with_vat>3.50</price_with_vat>
       <manufacturer>Sexen</manufacturer>
-      <mpn>4075/08fc</mpn>
+      <mpn>4075/d7e8</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4239,7 +5124,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/img_212404_1_1.jpg?v=1605700604</image>
       <price_with_vat>4.00</price_with_vat>
       <manufacturer>Sexen</manufacturer>
-      <mpn>4081/dbcf</mpn>
+      <mpn>4081/f876</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4254,7 +5139,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/img_3457set.jpg?v=1605702218</image>
       <price_with_vat>11.20</price_with_vat>
       <manufacturer>Lydia Creations</manufacturer>
-      <mpn>11137/dd8c</mpn>
+      <mpn>11137/980d</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4264,12 +5149,12 @@
     </product>
     <product>
       <id>5911760535713</id>
-      <name>Γυναικείο Σλίπ Bamboo 2 τεμαχίων WALK</name>
+      <name>Γυναικείο Σλίπ Bamboo 2 τεμαχίων (Πράσινο Σκούρο - Σάπιο Μήλο) WALK</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-γυναικείο-σλίπ-bamboo-2-τεμαχίων-walk</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2012_4061_ff9f0776-57f4-47cf-821c-c1cc435ec574.jpg?v=1606301102</image>
       <price_with_vat>10.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2012/113b</mpn>
+      <mpn>w2012/16f4</mpn>
       <ean>5203102118542</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4279,12 +5164,12 @@
     </product>
     <product>
       <id>5911765975201</id>
-      <name>Γυναικείο Σλίπ Bamboo 2 τεμαχίων WALK</name>
+      <name>Γυναικείο Σλίπ Bamboo 2 τεμαχίων (Μαύρο-Μαύρο) WALK</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-γυναικείο-σλίπ-bamboo-2-τεμαχίων-walk-1</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2012_0202_ccea26d8-2e23-4fe8-beff-af4834a280e1.jpg?v=1606301201</image>
       <price_with_vat>10.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2012/2cb4</mpn>
+      <mpn>w2012/79aa</mpn>
       <ean>5203102995426</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4299,7 +5184,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122162323_3d0e9f70-dacb-481d-b2af-91f39f150abe.jpg?v=1606305022</image>
       <price_with_vat>12.60</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>weekend-tai-women-6/a1d7</mpn>
+      <mpn>weekend-tai-women-6/06cd</mpn>
       <ean>7613108565680</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4314,7 +5199,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122162309_ca351de8-f7b0-4c83-be6f-c4d6284faccc.jpg?v=1606305585</image>
       <price_with_vat>12.60</price_with_vat>
       <manufacturer>Sloggi</manufacturer>
-      <mpn>weekend-tanga-women/a3d4</mpn>
+      <mpn>weekend-tanga-women/9782</mpn>
       <ean>7613108565734</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4329,7 +5214,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/83722-00_256-01_37853420-34b1-4480-9d8b-01e9b2b8d6b5.jpg?v=1606309385</image>
       <price_with_vat>15.00</price_with_vat>
       <manufacturer>Helios</manufacturer>
-      <mpn>83722-00-1/9d26</mpn>
+      <mpn>83722-00-1/131b</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4344,7 +5229,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/80349-00_02-02_2b30d229-575e-4172-a262-0be14807fef4.jpg?v=1606309880</image>
       <price_with_vat>5.85</price_with_vat>
       <manufacturer>Helios</manufacturer>
-      <mpn>80349-00-2/4a23</mpn>
+      <mpn>80349-00-2/378d</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4354,12 +5239,12 @@
     </product>
     <product>
       <id>5915093401761</id>
-      <name>Γυναικείο Τ-Shirt ΚΜ λεμόκοψη Bamboo WALK</name>
+      <name>Γυναικείο Τ-Shirt ΚΜ λεμόκοψη Bamboo Λευκό WALK</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-γυναικεία-τ-shirt-κμ-λεμόκοψη-bamboo-walk</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2203_01.jpg?v=1606380753</image>
       <price_with_vat>11.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2203/b315</mpn>
+      <mpn>w2203/806b</mpn>
       <ean>5203102460177</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4369,12 +5254,12 @@
     </product>
     <product>
       <id>5915098972321</id>
-      <name>Γυναικείο Τ-Shirt ΚΜ λεμόκοψη Bamboo WALK</name>
+      <name>Γυναικείο Τ-Shirt ΚΜ λεμόκοψη Bamboo Μαύρο WALK</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-γυναικεία-τ-shirt-κμ-λεμόκοψη-bamboo-walk-1</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2203_02.jpg?v=1606380688</image>
       <price_with_vat>11.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2203/9a1d</mpn>
+      <mpn>w2203/00ec</mpn>
       <ean>5203102460214</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4389,7 +5274,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2201_02_0de67e62-02ab-460e-9990-6219ac98c93c.jpg?v=1606381296</image>
       <price_with_vat>10.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2201/4935</mpn>
+      <mpn>w2201/315a</mpn>
       <ean>5203102440933</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4404,7 +5289,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-92103_005-01_a1600b8c-47b1-4b3b-a622-3b53a291df18.jpg?v=1606382392</image>
       <price_with_vat>11.00</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>92103/dd7c</mpn>
+      <mpn>92103/55a0</mpn>
       <ean>5206821269441</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4419,7 +5304,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/90-92201_005-01_78640dfc-1313-498d-b77e-aa04c0865cdb.jpg?v=1606382782</image>
       <price_with_vat>10.00</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>92201/c79c</mpn>
+      <mpn>92201/ad71</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4434,7 +5319,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122136560_4c05d5fc-9a83-4e97-b4be-e33d30c3dcf2.jpg?v=1606384996</image>
       <price_with_vat>24.00</price_with_vat>
       <manufacturer>Triumph</manufacturer>
-      <mpn>pushup-lovely-micro-1/7745</mpn>
+      <mpn>pushup-lovely-micro-1/7c9e</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4449,7 +5334,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/122136585_ed96712e-245a-41db-bf27-90edc9504be6.jpg?v=1606385325</image>
       <price_with_vat>17.50</price_with_vat>
       <manufacturer>Triumph</manufacturer>
-      <mpn>pushup-lovely-micro-padded-3/bd5c</mpn>
+      <mpn>pushup-lovely-micro-padded-3/123f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4464,7 +5349,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/d00800n-b60_1-huge_f05aee09-d6a6-46c9-943e-d9f9b796a461.jpg?v=1606388096</image>
       <price_with_vat>27.10</price_with_vat>
       <manufacturer>Dorina</manufacturer>
-      <mpn>d00800n/e5dc</mpn>
+      <mpn>d00800n/1b6f</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4479,7 +5364,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20190328102841_dorina_elegant_curves_d17165a_black_fd5d85c2-8861-4ae7-b6eb-b6118c30d64a.jpg?v=1606388656</image>
       <price_with_vat>27.10</price_with_vat>
       <manufacturer>Dorina</manufacturer>
-      <mpn>d17165a/a403</mpn>
+      <mpn>d17165a/e396</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4494,7 +5379,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/d17195a-b60_2-huge.jpg?v=1606389176</image>
       <price_with_vat>21.60</price_with_vat>
       <manufacturer>Dorina</manufacturer>
-      <mpn>d17195a/d51a</mpn>
+      <mpn>d17195a/41c2</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4509,7 +5394,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W906_10_2_bc4f6429-d738-4dc3-ad5d-a586e2624c9f.jpg?v=1606467367</image>
       <price_with_vat>17.00</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w906/2122</mpn>
+      <mpn>w906/62ae</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4519,12 +5404,12 @@
     </product>
     <product>
       <id>5917652844705</id>
-      <name>Παιδικό βαμβακερό φανελάκι UNISEX NINA CLUB</name>
+      <name>Παιδικό βαμβακερό φανελάκι Λευκό UNISEX NINA CLUB</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδικό-βαμβακερό-φανελάκι-unisex-nina-club</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/1_3ccb3929-0c17-4d2c-bfe7-f5446dfddfbc.jpg?v=1606469579</image>
       <price_with_vat>3.30</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>55/39c0</mpn>
+      <mpn>55/cac6</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4534,12 +5419,12 @@
     </product>
     <product>
       <id>5917654876321</id>
-      <name>Παιδικό βαμβακερό φανελάκι UNISEX NINA CLUB</name>
+      <name>Παιδικό βαμβακερό φανελάκι Γκρί UNISEX NINA CLUB</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδικό-βαμβακερό-φανελάκι-unisex-nina-club-1</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_37869169-9d98-468a-861c-c174a6ceb289.jpg?v=1606469656</image>
       <price_with_vat>3.30</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>55/6c96</mpn>
+      <mpn>55/8373</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4549,12 +5434,12 @@
     </product>
     <product>
       <id>5917656219809</id>
-      <name>Παιδικό βαμβακερό φανελάκι UNISEX NINA CLUB</name>
+      <name>Παιδικό βαμβακερό φανελάκι Λιλά UNISEX NINA CLUB</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδικό-βαμβακερό-φανελάκι-unisex-nina-club-2</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/55-FOUXIA.jpg?v=1610198873</image>
       <price_with_vat>3.30</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>55/459d</mpn>
+      <mpn>55/6341</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4564,62 +5449,17 @@
     </product>
     <product>
       <id>5917678010529</id>
-      <name>Παιδική πυτζάμα βαμβακερή NINA CLUB</name>
+      <name>Παιδική πυτζάμα βαμβακερή Κόκκινο NINA CLUB</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδική-πυτζάμα-βαμβακερή-nina-club</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_5511.jpg?v=1606470710</image>
       <price_with_vat>8.90</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>700/321e</mpn>
+      <mpn>700/41b6</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
       <size>3 (ετών), 4 (ετών), 8 (ετών), 10 (ετών)</size>
       <color>Κόκκινο</color>
-      <category>Παιδικά - Πυτζάμες</category>
-    </product>
-    <product>
-      <id>5917683941537</id>
-      <name>Παιδική Πυτζάμα βαμβακερή NINA CLUB</name>
-      <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδική-πυτζάμα-βαμβακερή-nina-club-1</link>
-      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200921155154_nina_club_pitzama_le_cirque_132_yellow_c93392d2-ac51-4b25-8e2b-288be5d76447.jpg?v=1606470896</image>
-      <price_with_vat>8.80</price_with_vat>
-      <manufacturer>NinaClub</manufacturer>
-      <mpn>132/9544</mpn>
-      <ean/>
-      <instock>Y</instock>
-      <availability>Παράδοση 1 - 3 ημέρες</availability>
-      <size>3-6 (μηνών), 6-12 (μηνών), 12-18 (μηνών)</size>
-      <color>Κίτρινο</color>
-      <category>Παιδικά - Πυτζάμες</category>
-    </product>
-    <product>
-      <id>5917687054497</id>
-      <name>Παιδική Πυτζάμα βαμβακερή NINA CLUB</name>
-      <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδική-πυτζάμα-βαμβακερή-nina-club-2</link>
-      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200921155313_nina_club_pitzama_le_cirque_132_pink_b8b740ef-418f-4f46-b501-3b06919c1776.jpg?v=1606471011</image>
-      <price_with_vat>8.80</price_with_vat>
-      <manufacturer>NinaClub</manufacturer>
-      <mpn>132/70ac</mpn>
-      <ean/>
-      <instock>Y</instock>
-      <availability>Παράδοση 1 - 3 ημέρες</availability>
-      <size>3-6 (μηνών), 6-12 (μηνών), 12-18 (μηνών)</size>
-      <color>Ρόζ</color>
-      <category>Παιδικά - Πυτζάμες</category>
-    </product>
-    <product>
-      <id>5917689872545</id>
-      <name>Παιδική Πυτζάμα βαμβακερή NINA CLUB</name>
-      <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδική-πυτζάμα-βαμβακερή-nina-club-3</link>
-      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200929113829_nina_club_pitzama_le_cirque_132_grey_1f0a7ff7-eb67-4fcf-ada7-831b3e59f39d.jpg?v=1606471140</image>
-      <price_with_vat>8.80</price_with_vat>
-      <manufacturer>NinaClub</manufacturer>
-      <mpn>132/373e</mpn>
-      <ean/>
-      <instock>Y</instock>
-      <availability>Παράδοση 1 - 3 ημέρες</availability>
-      <size>3-6 (μηνών), 6-12 (μηνών), 12-18 (μηνών)</size>
-      <color>Γκρί</color>
       <category>Παιδικά - Πυτζάμες</category>
     </product>
     <product>
@@ -4629,7 +5469,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_5340_0f4cff30-9eb5-4363-a0f8-c33989d9d05d.jpg?v=1606471652</image>
       <price_with_vat>8.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>347/928d</mpn>
+      <mpn>347/b843</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4644,7 +5484,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_5391_bc969533-b639-4975-af77-a8d6bdba156b.jpg?v=1606471715</image>
       <price_with_vat>8.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>347/7696</mpn>
+      <mpn>347/2a95</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4659,7 +5499,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20200730155354_nina_club_147_travelling_is_fun_blue_bc4e83c9-1452-4407-a372-3d30e24c66f8.jpg?v=1606471969</image>
       <price_with_vat>8.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>147/cbf7</mpn>
+      <mpn>147/cec3</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4669,12 +5509,12 @@
     </product>
     <product>
       <id>5917735026849</id>
-      <name>Εφηβικό αθλητικό βαμβακερό μπουστάκι</name>
+      <name>Εφηβικό αθλητικό βαμβακερό Γκρί Ανοιχτό μπουστάκι</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-αθλητικό-βαμβακερό-μπουστάκι</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_f5f0626b-b8f1-43c9-88f3-be82879f3661.jpg?v=1606473223</image>
       <price_with_vat>4.00</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>2372WR-1/1c30</mpn>
+      <mpn>2372WR-1/0bde</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4684,12 +5524,12 @@
     </product>
     <product>
       <id>5917736861857</id>
-      <name>Εφηβικό αθλητικό βαμβακερό μπουστάκι</name>
+      <name>Εφηβικό αθλητικό βαμβακερό Ρόζ μπουστάκι</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-αθλητικό-βαμβακερό-μπουστάκι-1</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3_4765929b-294c-48a3-918e-bed452e9843f.jpg?v=1606473284</image>
       <price_with_vat>4.00</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>2372WR-1/eb03</mpn>
+      <mpn>2372WR-1/0d08</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4699,12 +5539,12 @@
     </product>
     <product>
       <id>5917738369185</id>
-      <name>Εφηβικό αθλητικό βαμβακερό μπουστάκι</name>
+      <name>Εφηβικό αθλητικό βαμβακερό Μπλέ Σκούρο μπουστάκι</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-αθλητικό-βαμβακερό-μπουστάκι-2</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/4_fc84be35-98ee-40de-a5b3-70d2209a1a2b.jpg?v=1606473343</image>
       <price_with_vat>4.00</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>2372WR-1/a020</mpn>
+      <mpn>2372WR-1/25a6</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4714,12 +5554,12 @@
     </product>
     <product>
       <id>5917743743137</id>
-      <name>Εφηβικό βαμβακερό Μπουστάκι LOVELY CAT</name>
+      <name>Εφηβικό βαμβακερό Μπουστάκι Πράσινο LOVELY CAT</name>
       <link>https://sovrakofanela.myshopify.com/products/εφηβικό-βαμβακερό-μπουστάκι-lovely-cat</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_017df5bf-fd06-419d-9bba-1c8dbe0a9686.jpg?v=1606473616</image>
       <price_with_vat>3.20</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>5971/e46f</mpn>
+      <mpn>5971/cdfa</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4729,12 +5569,12 @@
     </product>
     <product>
       <id>5917744791713</id>
-      <name>Εφηβικό βαμβακερό Μπουστάκι LOVELY CAT</name>
+      <name>Εφηβικό βαμβακερό Μπουστάκι Ρόζ LOVELY CAT</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-βαμβακερό-μπουστάκι-lovely-cat</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3_c2352f23-385c-4121-973b-271e164c5737.jpg?v=1606473668</image>
       <price_with_vat>3.20</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>5971/3e0a</mpn>
+      <mpn>5971/8b2c</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4744,12 +5584,12 @@
     </product>
     <product>
       <id>5917746430113</id>
-      <name>Εφηβικό βαμβακερό Μπουστάκι LOVELY CAT</name>
+      <name>Εφηβικό βαμβακερό Μπουστάκι Κίτρινο LOVELY CAT</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-βαμβακερό-μπουστάκι-lovely-cat-1</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/4_bfd55add-524a-4b63-af51-87e0a9469661.jpg?v=1606473727</image>
       <price_with_vat>3.20</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>5971/c0bf</mpn>
+      <mpn>5971/112d</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4759,12 +5599,12 @@
     </product>
     <product>
       <id>5917747970209</id>
-      <name>Εφηβικό βαμβακερό Μπουστάκι LOVELY CAT</name>
+      <name>Εφηβικό βαμβακερό Μπουστάκι Ρόζ Ανοιχτό LOVELY CAT</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-βαμβακερό-μπουστάκι-lovely-cat-2</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/5_a9592ba7-0787-433b-8d54-a419b79a66f3.jpg?v=1606473776</image>
       <price_with_vat>3.20</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>5971/26be</mpn>
+      <mpn>5971/65fa</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4774,12 +5614,12 @@
     </product>
     <product>
       <id>5917753082017</id>
-      <name>Εφηβικό βαμβακερό Μπουστάκι STRIPES</name>
+      <name>Εφηβικό βαμβακερό Μπουστάκι Λευκό STRIPES</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-βαμβακερό-μπουστάκι-stripes</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3_3bd3378b-ebbe-402a-864c-71b7ebe15ebc.jpg?v=1606474012</image>
       <price_with_vat>3.20</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>59468/f4af</mpn>
+      <mpn>59468/a975</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4789,12 +5629,12 @@
     </product>
     <product>
       <id>5917755605153</id>
-      <name>Εφηβικό βαμβακερό Μπουστάκι STRIPES</name>
+      <name>Εφηβικό βαμβακερό Μπουστάκι Βεραμάν STRIPES</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-βαμβακερό-μπουστάκι-stripes-1</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/4_365061e8-d70a-4be6-98b0-a0322c2e3122.jpg?v=1606474097</image>
       <price_with_vat>3.20</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>59468/01bd</mpn>
+      <mpn>59468/7abb</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4804,12 +5644,12 @@
     </product>
     <product>
       <id>5917775691937</id>
-      <name>Εφηβικό βαμβακερό Σουτιέν SO COOL</name>
+      <name>Εφηβικό βαμβακερό Σουτιέν Ρόζ Απαλό Kitty SO COOL</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-βαμβακερό-σουτιέν-so-cool</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/2_8f6369e2-3705-4d97-8461-727f8f27da12.jpg?v=1606474467</image>
       <price_with_vat>8.00</price_with_vat>
       <manufacturer>BiyoKids</manufacturer>
-      <mpn>BY154/2253</mpn>
+      <mpn>BY154/be86</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4819,12 +5659,12 @@
     </product>
     <product>
       <id>5917782605985</id>
-      <name>Εφηβικό βαμβακερό Σουτιέν SO COOL</name>
+      <name>Εφηβικό βαμβακερό Σουτιέν Ακρού Γατούλα SO COOL</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-βαμβακερό-σουτιέν-so-cool-2</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/3_4477f97b-ff52-4330-8ebc-4e469b33dd50.jpg?v=1606474615</image>
       <price_with_vat>9.60</price_with_vat>
       <manufacturer>BiyoKids</manufacturer>
-      <mpn>BY155/9287</mpn>
+      <mpn>BY155/0111</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4834,12 +5674,12 @@
     </product>
     <product>
       <id>5917787848865</id>
-      <name>Εφηβικό βαμβακερό Σουτιέν SO COOL</name>
+      <name>Εφηβικό βαμβακερό Σουτιέν Ρόζ Πουά SO COOL</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-εφηβικό-βαμβακερό-σουτιέν-so-cool-1</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/ezgif.com-webp-to-jpg.jpg?v=1606474844</image>
       <price_with_vat>8.00</price_with_vat>
       <manufacturer>BiyoKids</manufacturer>
-      <mpn>BY156/53aa</mpn>
+      <mpn>BY156/299b</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4848,34 +5688,19 @@
       <category>Παιδικά - Σουτιέν</category>
     </product>
     <product>
-      <id>5917817077921</id>
-      <name>Παιδική πυτζάμα βαμβακερή NINA CLUB</name>
-      <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδική-πυτζάμα-βαμβακερή-nina-club-4</link>
-      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/MK2_6025_1dd93e3f-f0bd-43ff-8bee-5d684bfd6d13.jpg?v=1606475752</image>
-      <price_with_vat>8.20</price_with_vat>
-      <manufacturer>NinaClub</manufacturer>
-      <mpn>244/4a4c</mpn>
-      <ean/>
-      <instock>Y</instock>
-      <availability>Παράδοση 1 - 3 ημέρες</availability>
-      <size>1 (ετών), 2 (ετών), 3 (ετών), 4 (ετών), 5 (ετών), 6 (ετών), 7 (ετών), 8 (ετών), 9 (ετών), 10 (ετών)</size>
-      <color>Ρόζ</color>
-      <category>Παιδικά - Πυτζάμες</category>
-    </product>
-    <product>
       <id>5917834805409</id>
       <name>Παιδικό Σετ Σκούφος-Γάντια-Κασκόλ</name>
       <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδικό-σετ-σκούφος-γάντια-κασκόλ</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/kitti-4-8-yas-atki-bere-eldiven-seti-lacivert-beyaz-k8946-6319-jpg_0dd5bc21-b77e-4476-9a63-8c6230cc7a33.jpg?v=1606476469</image>
       <price_with_vat>8.40</price_with_vat>
       <manufacturer>Kitty</manufacturer>
-      <mpn>k8946/4161</mpn>
+      <mpn>k8946/40c5</mpn>
       <ean>8680797033492</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
       <size>Μπλέ</size>
       <color>4-8 ετών</color>
-      <category>Σετ</category>
+      <category>Βρεφικά - Σετ</category>
     </product>
     <product>
       <id>5925681201313</id>
@@ -4884,7 +5709,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/51-LEFKO9.jpg?v=1606816931</image>
       <price_with_vat>2.20</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>50/5dd1</mpn>
+      <mpn>50/3b70</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4899,7 +5724,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/large_20191108135026_nina_club_51_black.jpg?v=1606817115</image>
       <price_with_vat>2.20</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>51/e581</mpn>
+      <mpn>51/92c8</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4914,7 +5739,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/large_20191108134949_nina_club_51_blue.jpg?v=1606817187</image>
       <price_with_vat>2.20</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>51/8109</mpn>
+      <mpn>51/4a9e</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4929,7 +5754,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2206_61.jpg?v=1607066922</image>
       <price_with_vat>11.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2206/23d5</mpn>
+      <mpn>w2206/4f65</mpn>
       <ean>5203102118474</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4944,7 +5769,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2206_02.jpg?v=1607067226</image>
       <price_with_vat>11.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2206/9b93</mpn>
+      <mpn>w2206/68fc</mpn>
       <ean>5203102118436</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4959,7 +5784,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W2206_01.jpg?v=1607067295</image>
       <price_with_vat>11.60</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>w2206/71a3</mpn>
+      <mpn>w2206/0e5b</mpn>
       <ean>5203102118399</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4974,7 +5799,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/315-GRI.jpg?v=1607584327</image>
       <price_with_vat>3.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>315/f3de</mpn>
+      <mpn>315/415e</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -4989,7 +5814,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/315-MPLE_fdb15baa-eeee-4751-96c0-2deb58cc7b13.jpg?v=1607584298</image>
       <price_with_vat>3.40</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>315/0acf</mpn>
+      <mpn>315/42c8</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5004,7 +5829,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/313-MPLE.jpg?v=1607584766</image>
       <price_with_vat>2.90</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>313/2c32</mpn>
+      <mpn>313/86e0</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5019,7 +5844,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/313-GRI.jpg?v=1607584818</image>
       <price_with_vat>2.90</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>313/ded9</mpn>
+      <mpn>313/7ddc</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5034,7 +5859,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/65-LEFKO.jpg?v=1607585607</image>
       <price_with_vat>3.50</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>64/970c</mpn>
+      <mpn>64/4257</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5049,7 +5874,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/65-MAVRO.jpg?v=1607585676</image>
       <price_with_vat>3.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>64/4e1e</mpn>
+      <mpn>64/55ca</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5064,7 +5889,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/325260217B5502BF7147AD540551F236_PRODF7925452.jpg?v=1608118369</image>
       <price_with_vat>2.80</price_with_vat>
       <manufacturer>Omsa</manufacturer>
-      <mpn>4059/af8d</mpn>
+      <mpn>4059/66a0</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5079,7 +5904,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/20190107100747_trouakar_omsa_easy_day_20_den_2_zeygaria_4061_mpez_caramello_8033604844024.jpg?v=1608118872</image>
       <price_with_vat>2.90</price_with_vat>
       <manufacturer>Omsa</manufacturer>
-      <mpn>4061/393f</mpn>
+      <mpn>4061/c006</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5094,7 +5919,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/external-content.duckduckgo.com.jpg?v=1608119336</image>
       <price_with_vat>2.90</price_with_vat>
       <manufacturer>Omsa</manufacturer>
-      <mpn>4060/b6e9</mpn>
+      <mpn>4060/89aa</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5109,7 +5934,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/external-content.duckduckgo.com_2a62ddac-7710-4b9e-a0ea-015518b26797.jpg?v=1608119562</image>
       <price_with_vat>3.00</price_with_vat>
       <manufacturer>Omsa</manufacturer>
-      <mpn>4062/a7a3</mpn>
+      <mpn>4062/2223</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5124,7 +5949,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/413-LILA.jpg?v=1608197711</image>
       <price_with_vat>3.00</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>413/f022</mpn>
+      <mpn>413/1fde</mpn>
       <ean>6054946643112</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5139,7 +5964,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/413-LEFKO.jpg?v=1608197759</image>
       <price_with_vat>3.00</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>413/68b4</mpn>
+      <mpn>413/b16e</mpn>
       <ean>6054946643105</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5149,12 +5974,12 @@
     </product>
     <product>
       <id>5975325409441</id>
-      <name>Παιδικό μποξεράκι Bamboo με σχέδια 2 τεμάχια WALK</name>
+      <name>Παιδικό μποξεράκι Bamboo με σχέδια 2 τεμάχια (Multicolor) WALK</name>
       <link>https://sovrakofanela.myshopify.com/products/παιδικό-μποξεράκι-bamboo-σε-σχέδιο-2-τεμάχια-walk</link>
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1870-4.jpg?v=1608805234</image>
       <price_with_vat>11.10</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>W1870-4/cfc7</mpn>
+      <mpn>W1870-4/9b6f</mpn>
       <ean/>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5169,9 +5994,24 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1870-3.jpg?v=1608805297</image>
       <price_with_vat>11.10</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>W1870-3/2bbf</mpn>
+      <mpn>W1870-3/badf</mpn>
       <ean/>
       <instock>N</instock>
+      <availability>Παράδοση 1 - 3 ημέρες</availability>
+      <size>6-8 ετών, 9-11 ετών, 12-14 ετών</size>
+      <color>Multicolor</color>
+      <category>Παιδικά - Μποξεράκια</category>
+    </product>
+    <product>
+      <id>5975333339297</id>
+      <name>Παιδικό σλίπ Bamboo σε σχέδια 2 τεμάχια Multicolor WALK</name>
+      <link>https://sovrakofanela.myshopify.com/products/copy-of-παιδικό-μποξεράκι-bamboo-σε-σχέδιο-2-τεμάχια-walk-1</link>
+      <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1880-1.jpg?v=1608805521</image>
+      <price_with_vat>7.50</price_with_vat>
+      <manufacturer>Walk</manufacturer>
+      <mpn>W1880-1/de6a</mpn>
+      <ean>5203102109045</ean>
+      <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
       <size>6-8 ετών, 9-11 ετών, 12-14 ετών</size>
       <color>Multicolor</color>
@@ -5184,7 +6024,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/W1880-2.jpg?v=1608805766</image>
       <price_with_vat>7.50</price_with_vat>
       <manufacturer>Walk</manufacturer>
-      <mpn>W1880-2/0faf</mpn>
+      <mpn>W1880-2/66b6</mpn>
       <ean>5203102109076</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5199,7 +6039,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/413-FOUXIA.jpg?v=1610618087</image>
       <price_with_vat>3.00</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>413/2a4f</mpn>
+      <mpn>413/91e6</mpn>
       <ean>6054946643117</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5214,7 +6054,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/img_5435_2.jpg?v=1610621894</image>
       <price_with_vat>3.80</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>316/7351</mpn>
+      <mpn>316/62de</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5229,7 +6069,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/94-D.jpg?v=1610623434</image>
       <price_with_vat>4.25</price_with_vat>
       <manufacturer>NinaClub</manufacturer>
-      <mpn>94/1a5f</mpn>
+      <mpn>94/0534</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5244,7 +6084,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/4371wps-5_jpg.jpg?v=1610625061</image>
       <price_with_vat>3.40</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>4371WMK-1/9493</mpn>
+      <mpn>4371WMK-1/e2cb</mpn>
       <ean>8697840408787</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5259,7 +6099,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/dsc_0041_1_1.jpg?v=1610625249</image>
       <price_with_vat>3.40</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>4371WMK-5/2dec</mpn>
+      <mpn>4371WMK-5/0f35</mpn>
       <ean>8677840408787</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5274,7 +6114,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/20262001-gq8a7078.jpg?v=1610699011</image>
       <price_with_vat>25.50</price_with_vat>
       <manufacturer>Sexen</manufacturer>
-      <mpn>62001/1145</mpn>
+      <mpn>62001/d89d</mpn>
       <ean>8680768139543</ean>
       <instock>N</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5289,7 +6129,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/dsc_0022_3_5.jpg?v=1610699784</image>
       <price_with_vat>2.40</price_with_vat>
       <manufacturer>BiyoKids</manufacturer>
-      <mpn>2130/bbc3</mpn>
+      <mpn>2130/0a0e</mpn>
       <ean>8681102038096</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5304,7 +6144,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/dsc_0012_6_7.jpg?v=1610700672</image>
       <price_with_vat>2.56</price_with_vat>
       <manufacturer>BiyoKids</manufacturer>
-      <mpn>7671w/3f27</mpn>
+      <mpn>7671w/776a</mpn>
       <ean>8681102038096</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5319,7 +6159,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/76707_3_rgb.jpg?v=1610701841</image>
       <price_with_vat>2.56</price_with_vat>
       <manufacturer>BiyoKids</manufacturer>
-      <mpn>7671w-1/70d0</mpn>
+      <mpn>7671w-1/eaf3</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5334,7 +6174,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/img_6087.jpg?v=1610702641</image>
       <price_with_vat>2.50</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>51748BW-2/faf1</mpn>
+      <mpn>51748BW-2/03ab</mpn>
       <ean/>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5349,7 +6189,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/d000087mi003-2x0007_1-huge.jpg?v=1611076690</image>
       <price_with_vat>29.92</price_with_vat>
       <manufacturer>Dorina</manufacturer>
-      <mpn>D000087MI003/9fac</mpn>
+      <mpn>D000087MI003/bb02</mpn>
       <ean>4894728021890</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5364,7 +6204,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/xlarge_20190403093016_dorina_d00937x_ch12.jpg?v=1611060437</image>
       <price_with_vat>27.40</price_with_vat>
       <manufacturer>Dorina</manufacturer>
-      <mpn>d00937x-x12/4d88</mpn>
+      <mpn>d00937x-x12/32c9</mpn>
       <ean>4894558366475</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5379,7 +6219,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/dorina-d000110la006-rd0003-02.jpg?v=1612000398</image>
       <price_with_vat>34.00</price_with_vat>
       <manufacturer>Donella</manufacturer>
-      <mpn>D000110LA006-RD-1/8282</mpn>
+      <mpn>D000110LA006-RD-1/a9c8</mpn>
       <ean>4894728025577</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>
@@ -5394,7 +6234,7 @@
       <image>https://cdn.shopify.com/s/files/1/0399/0106/9473/products/0186887_MTRL4850-1_600.png?v=1612516969</image>
       <price_with_vat>8.70</price_with_vat>
       <manufacturer>Minerva</manufacturer>
-      <mpn>41967/4102</mpn>
+      <mpn>41967/7f57</mpn>
       <ean>6106025487308</ean>
       <instock>Y</instock>
       <availability>Παράδοση 1 - 3 ημέρες</availability>

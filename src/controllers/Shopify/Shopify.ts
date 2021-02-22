@@ -44,6 +44,7 @@ export class ShopifyController {
           category: product?.product_type.includes('_')
             ? product?.product_type.replace('_', ' - ')
             : product?.product_type,
+          weight: '1000',
         })
       })
 
