@@ -26,6 +26,20 @@ export class ShopifyController {
       }
 
       products.reduce((_i: any, product: any) => {
+        const productSizes = product.variants
+          .filter((obj: any) => {
+            return obj.inventory_quantity > 0
+          })
+          .map((e: any) => {
+            return e.option1
+          })
+
+        const filteredSizesArray = productSizes
+          .filter((obj: any, index: any, arr: any) => {
+            return arr.map((mapObj: any) => mapObj).indexOf(obj) === index
+          })
+          .join(', ')
+
         return arr.mywebstore.products.product.push({
           id: product?.id,
           name: product?.title,
@@ -39,7 +53,7 @@ export class ShopifyController {
             : product?.variants[1]?.barcode,
           instock: product?.variants[0]?.inventory_quantity > 0 ? 'Y' : 'N',
           availability: 'Παράδοση 1 - 3 ημέρες',
-          size: product?.options[0]?.values?.join(', '),
+          size: filteredSizesArray,
           color: product?.options[1]?.values?.join(', '),
           category: product?.product_type.includes('_')
             ? product?.product_type.replace('_', ' - ')
